@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ENSO &amp; IOD Climate Explorer | Karnataka Spatial Analysis</title>
+  <meta name="description" content="Interactive Karnataka rainfall climatology explorer showing ENSO and IOD phase impacts across districts (1951-2020).">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="app-container">
+
+    <!-- HEADER -->
+    <header class="app-header">
+      <div class="header-brand">
+        <div class="logo-icon">🗺️</div>
+        <div>
+          <h1>ENSO &amp; IOD Climate Explorer: Karnataka</h1>
+          <p class="subtitle">Climatological Analysis &amp; Intensity Classification (1951–2020)</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <div class="mode-pills">
+          <button class="mode-btn active" data-mode="intensity">🔥 ENSO Intensity Phases</button>
+          <button class="mode-btn" data-mode="combo">⚡ 9-Coupled Combinations</button>
+          <button class="mode-btn" data-mode="iod">🌴 IOD Phases</button>
+        </div>
+      </div>
+    </header>
+
+    <!-- MAIN LAYOUT: Map (left) + Phase Sidebar (right) -->
+    <div class="main-layout">
+
+      <!-- LEFT: Map + Filters -->
+      <div class="map-area">
+
+        <!-- Secondary Filter Strip -->
+        <div class="secondary-toolbar">
+          <div class="filter-group">
+            <label>Time Resolution:</label>
+            <select id="season-select" class="custom-select">
+              <optgroup label="Seasons">
+                <option value="SWMS" selected>🌧️ SW Monsoon (Jun–Sep)</option>
+                <option value="NEMS">🍂 NE Monsoon (Oct–Dec)</option>
+                <option value="Annual">📅 Annual Total (Jan–Dec)</option>
+                <option value="summer">☀️ Summer (Mar–May)</option>
+                <option value="winter">❄️ Winter (Jan–Feb)</option>
+              </optgroup>
+              <optgroup label="Individual Months">
+                <option value="Jan">January</option>
+                <option value="Feb">February</option>
+                <option value="Mar">March</option>
+                <option value="Apr">April</option>
+                <option value="May">May</option>
+                <option value="Jun">June</option>
+                <option value="Jul">July</option>
+                <option value="Aug">August</option>
+                <option value="Sep">September</option>
+                <option value="Oct">October</option>
+                <option value="Nov">November</option>
+                <option value="Dec">December</option>
+              </optgroup>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label>Region:</label>
+            <div class="chip-group">
+              <button class="chip-btn active" data-region="ALL">All Karnataka</button>
+              <button class="chip-btn chip-coastal" data-region="Costal Kar">Coastal</button>
+              <button class="chip-btn chip-nik" data-region="NIK">NIK</button>
+              <button class="chip-btn chip-sik" data-region="SIK">SIK</button>
+              <button class="chip-btn chip-malnad" data-region="Malnad Kar">Malnad</button>
+            </div>
+          </div>
+          <div class="filter-group">
+            <label>Metric:</label>
+            <div class="toggle-group">
+              <button class="toggle-btn active" data-metric="dev">% Deviation</button>
+              <button class="toggle-btn" data-metric="rf">Rainfall (mm)</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Map Card -->
+        <div class="map-card">
+          <div class="card-header">
+            <div>
+              <h2 id="map-card-title">Karnataka District Spatial Map</h2>
+              <p class="card-subtitle" id="map-card-subtitle">Showing SWMS Monsoon deviation during Strong El Niño</p>
+            </div>
+            <div class="map-stats-summary">
+              <div class="mini-stat">
+                <span class="stat-lbl">State Avg</span>
+                <span id="state-avg-val" class="stat-val negative">–</span>
+              </div>
+              <div class="mini-stat">
+                <span class="stat-lbl">Normal</span>
+                <span id="state-norm-val" class="stat-val">– mm</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Legend -->
+          <div class="map-legend">
+            <div class="legend-label">Deviation:</div>
+            <div class="legend-bar">
+              <span class="legend-cell severe-def">Severe (&lt;-20%)</span>
+              <span class="legend-cell def">Deficit (-10 to -20%)</span>
+              <span class="legend-cell norm">Normal (±10%)</span>
+              <span class="legend-cell excess">Excess (+10–20%)</span>
+              <span class="legend-cell high-excess">High (&gt;+20%)</span>
+            </div>
+          </div>
+
+          <!-- SVG Map + Zoom Buttons -->
+          <div class="svg-map-wrapper" id="map-wrapper">
+            <svg id="karnataka-map" viewBox="0 0 750 1100" preserveAspectRatio="xMidYMid meet">
+              <!-- injected by app.js -->
+            </svg>
+            <div id="map-tooltip" class="map-tooltip hidden">
+              <div class="tooltip-title" id="tt-district">District</div>
+              <div class="tooltip-region" id="tt-region">Region</div>
+              <hr class="tooltip-divider">
+              <div class="tooltip-row"><span>Normal:</span> <strong id="tt-normal">0 mm</strong></div>
+              <div class="tooltip-row"><span>Event RF:</span> <strong id="tt-event">0 mm</strong></div>
+              <div class="tooltip-row"><span>Deviation:</span> <strong id="tt-dev" class="dev-val">+0%</strong></div>
+            </div>
+            <!-- Zoom Controls -->
+            <div class="zoom-controls">
+              <button class="zoom-btn" id="zoom-in-btn" title="Zoom In">+</button>
+              <button class="zoom-btn" id="zoom-reset-btn" title="Reset Zoom" style="font-size:13px;">⟳</button>
+              <button class="zoom-btn" id="zoom-out-btn" title="Zoom Out">−</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- RIGHT SIDEBAR: Phase Selector -->
+      <aside class="phase-sidebar" id="phase-sidebar-panel">
+
+        <!-- ENSO Intensity (default) -->
+        <div id="intensity-matrix-container" class="matrix-container">
+          <div class="matrix-title">Select ENSO Phase &amp; Intensity:</div>
+          <div class="intensity-grid">
+            <button class="matrix-btn intensity-btn btn-weak-el" data-event="Weak El Niño">
+              <span class="event-tag badge-weak-el">Weak El Niño (13 yrs)</span>
+              <span class="event-desc">1951,53,63,68,69,76,77,79,94,04,06,14,18</span>
+            </button>
+            <button class="matrix-btn intensity-btn btn-mod-el" data-event="Moderate El Niño">
+              <span class="event-tag badge-mod-el">Moderate El Niño (7 yrs)</span>
+              <span class="event-desc">1957,1965,1972,1987,1991,2002,2009</span>
+            </button>
+            <button class="matrix-btn intensity-btn btn-strong-el active" data-event="Strong El Niño">
+              <span class="event-tag badge-strong-el">Strong El Niño (3 yrs)</span>
+              <span class="event-desc">1982, 1997, 2015</span>
+            </button>
+            <button class="matrix-btn intensity-btn btn-weak-la" data-event="Weak La Niña">
+              <span class="event-tag badge-weak-la">Weak La Niña (12 yrs)</span>
+              <span class="event-desc">1954,64,71,74,83,84,95,00,05,08,16,17</span>
+            </button>
+            <button class="matrix-btn intensity-btn btn-mod-la" data-event="Moderate La Niña">
+              <span class="event-tag badge-mod-la">Moderate La Niña (10 yrs)</span>
+              <span class="event-desc">1955,1970,1973,1988,1998,1999,2007,10,11,20</span>
+            </button>
+            <button class="matrix-btn intensity-btn btn-strong-la" data-event="Strong La Niña">
+              <span class="event-tag badge-strong-la">Strong La Niña (3 yrs)</span>
+              <span class="event-desc">1950, 1975, 1989</span>
+            </button>
+            <button class="matrix-btn intensity-btn btn-neutral" data-event="Neutral">
+              <span class="event-tag badge-neutral">Neutral Baseline (23 yrs)</span>
+              <span class="event-desc">1952,56,58,59,60,61,62,66,67,78,80,81,85,86...</span>
+            </button>
+            <button class="matrix-btn intensity-btn btn-all-el" data-event="El Niño">
+              <span class="event-tag badge-all-el">All El Niño Events</span>
+              <span class="event-desc">All Weak, Moderate &amp; Strong El Niño years</span>
+            </button>
+            <button class="matrix-btn intensity-btn btn-all-la" data-event="La Niña">
+              <span class="event-tag badge-all-la">All La Niña Events</span>
+              <span class="event-desc">All Weak, Moderate &amp; Strong La Niña years</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- 9-Coupled Combinations (hidden initially) -->
+        <div id="combo-matrix-container" class="matrix-container hidden">
+          <div class="matrix-title">ENSO + IOD Combination:</div>
+          <div class="matrix-grid">
+            <button class="matrix-btn" data-event="El Niño + Positive IOD">
+              <span class="event-tag badge-el-p">El Niño + Pos IOD</span>
+              <span class="event-desc">Monsoon Saver (+5.99% SWMS)</span>
+            </button>
+            <button class="matrix-btn" data-event="El Niño + Neutral IOD">
+              <span class="event-tag badge-el-nu">El Niño + Neu IOD</span>
+              <span class="event-desc">Severe Deficit (-16.04%)</span>
+            </button>
+            <button class="matrix-btn" data-event="El Niño + Negative IOD">
+              <span class="event-tag badge-el-n">El Niño + Neg IOD</span>
+              <span class="event-desc">NEMS Surge (+22.60%)</span>
+            </button>
+            <button class="matrix-btn" data-event="La Niña + Positive IOD">
+              <span class="event-tag badge-la-p">La Niña + Pos IOD</span>
+              <span class="event-desc">NEMS Deficit (-25.61%)</span>
+            </button>
+            <button class="matrix-btn" data-event="La Niña + Neutral IOD">
+              <span class="event-tag badge-la-nu">La Niña + Neu IOD</span>
+              <span class="event-desc">Monsoon Deficit (-13.46%)</span>
+            </button>
+            <button class="matrix-btn" data-event="La Niña + Negative IOD">
+              <span class="event-tag badge-la-n">La Niña + Neg IOD</span>
+              <span class="event-desc">Post-Monsoon Boost (+12.41%)</span>
+            </button>
+            <button class="matrix-btn" data-event="Neutral + Positive IOD">
+              <span class="event-tag badge-nu-p">Neutral + Pos IOD</span>
+              <span class="event-desc">Wet Monsoon (+2.89%)</span>
+            </button>
+            <button class="matrix-btn" data-event="Neutral + Neutral IOD">
+              <span class="event-tag badge-nu-nu">Neutral + Neu IOD</span>
+              <span class="event-desc">Pure Normal baseline</span>
+            </button>
+            <button class="matrix-btn" data-event="Neutral + Negative IOD">
+              <span class="event-tag badge-nu-n">Neutral + Neg IOD</span>
+              <span class="event-desc">Monsoon Boost (+3.63%)</span>
+            </button>
+          </div>
+        </div>
+
+        <!-- IOD Only (hidden initially) -->
+        <div id="single-event-container" class="single-event-container hidden">
+          <div class="matrix-title">Select IOD Phase:</div>
+          <div id="single-event-buttons" class="single-grid">
+            <button class="matrix-btn active" data-event="Positive">
+              <span class="event-tag badge-nu-p">Positive IOD</span>
+              <span class="event-desc">Warm west Indian Ocean</span>
+            </button>
+            <button class="matrix-btn" data-event="Negative">
+              <span class="event-tag badge-el-nu">Negative IOD</span>
+              <span class="event-desc">Cool west Indian Ocean</span>
+            </button>
+            <button class="matrix-btn" data-event="Neutral">
+              <span class="event-tag badge-nu-nu">Neutral IOD</span>
+              <span class="event-desc">Normal Indian Ocean</span>
+            </button>
+          </div>
+        </div>
+
+      </aside>
+    </div><!-- end .main-layout -->
+
+    <!-- ANALYTICS: Year-wise chart + Ocean mechanism -->
+    <section class="analytics-grid">
+      <!-- Year-wise Historical Rainfall Chart -->
+      <div class="glass-card time-series-card">
+        <div class="card-header">
+          <div>
+            <h2 id="chart-main-title">Year-wise Historical Rainfall</h2>
+            <p class="card-subtitle" id="chart-main-subtitle">Event Years vs Baseline Normal (mm)</p>
+          </div>
+          <span class="badge-phase" id="chart-phase-badge" style="background:#eff6ff;color:#1e40af;border:1px solid #93c5fd;">Strong El Niño</span>
+        </div>
+        <div class="chart-wrapper yearwise-chart-wrapper">
+          <canvas id="yearwise-line-chart"></canvas>
+        </div>
+      </div>
+
+      <!-- Ocean Mechanism + Regional Summary -->
+      <div class="side-analytics">
+        <div class="glass-card schematic-card">
+          <div class="card-header">
+            <div>
+              <h2>Ocean Circulation Mechanism</h2>
+              <p class="card-subtitle" id="schematic-subtitle">Pacific &amp; Indian Ocean Thermal Structure</p>
+            </div>
+          </div>
+          <div class="ocean-schematic-wrapper">
+            <svg id="ocean-svg" viewBox="0 0 700 240" preserveAspectRatio="xMidYMid meet"></svg>
+          </div>
+          <div class="edu-card" id="edu-card-content">
+            <h3 id="edu-title">Strong El Niño Atmospheric Impact</h3>
+            <p id="edu-body">During <strong>Strong El Niño</strong> events (1982, 1997, 2015), intense sea surface warming in the central and eastern equatorial Pacific disrupts the global Walker circulation, suppressing monsoon precipitation across Karnataka's districts.</p>
+          </div>
+        </div>
+
+        <!-- Regional Mini Cards -->
+        <div class="regional-summary-grid">
+          <div class="glass-card summary-mini mini-coastal">
+            <div class="mini-icon">🏖️</div>
+            <div>
+              <div class="summary-lbl">Coastal Karnataka</div>
+              <div id="region-val-coastal" class="summary-val">--</div>
+            </div>
+          </div>
+          <div class="glass-card summary-mini mini-nik">
+            <div class="mini-icon">🌾</div>
+            <div>
+              <div class="summary-lbl">North Interior (NIK)</div>
+              <div id="region-val-nik" class="summary-val">--</div>
+            </div>
+          </div>
+          <div class="glass-card summary-mini mini-sik">
+            <div class="mini-icon">🌇</div>
+            <div>
+              <div class="summary-lbl">South Interior (SIK)</div>
+              <div id="region-val-sik" class="summary-val">--</div>
+            </div>
+          </div>
+          <div class="glass-card summary-mini mini-malnad">
+            <div class="mini-icon">⛰️</div>
+            <div>
+              <div class="summary-lbl">Malnad Region</div>
+              <div id="region-val-malnad" class="summary-val">--</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section><!-- end .analytics-grid -->
+
+    <!-- DISTRICT CLIMATOLOGICAL BREAKDOWN TABLE -->
+    <section class="detail-section">
+      <div class="detail-card glass-card" id="district-detail-card">
+        <div class="card-header">
+          <div>
+            <h2 id="detail-district-name">Karnataka State Overview</h2>
+            <p class="card-subtitle" id="detail-district-region">All Seasons &amp; Months Climatological Breakdown</p>
+          </div>
+          <button id="reset-district-btn" class="secondary-btn hidden">↩ Reset to State</button>
+        </div>
+        <!-- % Departure Formula Banner -->
+        <div class="formula-banner">
+          <div class="formula-label">Formula Used:</div>
+          <div class="formula-box">
+            <span class="formula-lhs">% Departure</span>
+            <span class="formula-eq">=</span>
+            <div class="formula-fraction">
+              <div class="formula-numerator">Actual Rainfall &minus; Normal Rainfall</div>
+              <div class="formula-bar"></div>
+              <div class="formula-denominator">Normal Rainfall</div>
+            </div>
+            <span class="formula-eq">&times; 100</span>
+          </div>
+        </div>
+
+        <div class="detail-content">
+          <table class="detail-table">
+            <thead>
+              <tr>
+                <th>Time Period</th>
+                <th>Normal Baseline (mm)</th>
+                <th>Event Rainfall (mm)</th>
+                <th>Deviation (%)</th>
+                <th>Impact Assessment</th>
+              </tr>
+            </thead>
+            <tbody id="detail-table-body">
+              <!-- populated by app.js -->
+            </tbody>
+          </table>
+        </div>
+
+        <!-- PHASE IMPACT EXECUTIVE SUMMARY BANNER -->
+        <div class="phase-summary-banner" id="phase-summary-banner">
+          <div class="ps-header">
+            <span class="ps-badge">📋 Executive Phase Impact Summary</span>
+            <h3 id="ps-title">Rainfall Impact Summary — Strong El Niño (SWMS)</h3>
+          </div>
+
+          <div class="ps-grid">
+            <!-- State Box -->
+            <div class="ps-card ps-card-state">
+              <div class="ps-card-header">
+                <span class="ps-icon">🇮🇳</span>
+                <span class="ps-card-title">Karnataka Statewide</span>
+              </div>
+              <div id="ps-state-val" class="ps-big-val negative">--</div>
+              <div id="ps-state-desc" class="ps-body-text">
+                Loading summary...
+              </div>
+            </div>
+
+            <!-- Regional Performance -->
+            <div class="ps-card ps-card-regions">
+              <div class="ps-card-header">
+                <span class="ps-icon">🗺️</span>
+                <span class="ps-card-title">Regional Performance</span>
+              </div>
+              <div id="ps-regions-grid" class="ps-regions-subgrid">
+                <!-- populated dynamically -->
+              </div>
+            </div>
+
+            <!-- District Breakdown -->
+            <div class="ps-card ps-card-districts">
+              <div class="ps-card-header">
+                <span class="ps-icon">📍</span>
+                <span class="ps-card-title">District-wise Highlights</span>
+              </div>
+              <div id="ps-districts-content" class="ps-dist-content">
+                <!-- populated dynamically -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ══ REAL-TIME CLIMATE EVENTS TIMELINE ══ -->
+    <section class="ct-section">
+      <div class="glass-card ct-card">
+        <div class="ct-header">
+          <div class="ct-header-left">
+            <div class="ct-header-icon">🌏</div>
+            <div>
+              <h2 class="ct-title">Real-Time Climate Events Timeline</h2>
+              <p class="ct-header-sub">Current Year <strong id="ct-year-display"></strong> &mdash; Monitoring ENSO, IOD, MJO &amp; Indian Monsoon Drivers</p>
+            </div>
+          </div>
+          <div class="ct-header-actions">
+            <div id="ct-fetch-status" class="ct-fetch-status">Initialising…</div>
+            <button id="ct-refresh-btn" class="ct-refresh-btn">⟳ Refresh Data</button>
+          </div>
+        </div>
+        <div id="ct-summary-cards" class="ct-summary-cards"></div>
+        <div class="ct-filters">
+          <div class="ct-filter-group"><label>Month</label>
+            <select id="ct-filter-month" class="ct-select">
+              <option value="ALL">All Months</option>
+              <option value="1">January</option><option value="2">February</option>
+              <option value="3">March</option><option value="4">April</option>
+              <option value="5">May</option><option value="6">June</option>
+              <option value="7">July</option><option value="8">August</option>
+              <option value="9">September</option><option value="10">October</option>
+              <option value="11">November</option><option value="12">December</option>
+            </select>
+          </div>
+          <div class="ct-filter-group"><label>ENSO Phase</label>
+            <select id="ct-filter-enso" class="ct-select">
+              <option value="ALL">All ENSO</option>
+              <option value="elnino">El Niño</option>
+              <option value="lanina">La Niña</option>
+              <option value="neutral">Neutral</option>
+            </select>
+          </div>
+          <div class="ct-filter-group"><label>IOD Phase</label>
+            <select id="ct-filter-iod" class="ct-select">
+              <option value="ALL">All IOD</option>
+              <option value="positive">Positive IOD</option>
+              <option value="negative">Negative IOD</option>
+              <option value="neutral">Neutral IOD</option>
+            </select>
+          </div>
+          <div class="ct-filter-group"><label>Data Status</label>
+            <select id="ct-filter-status" class="ct-select">
+              <option value="ALL">All Status</option>
+              <option value="confirmed">Confirmed</option>
+              <option value="preliminary">Preliminary</option>
+              <option value="forecast">Forecast</option>
+            </select>
+          </div>
+          <div class="ct-filter-sources">
+            <span class="ct-src-badge">📡 NOAA CPC</span>
+            <span class="ct-src-badge">🇮🇳 IMD</span>
+            <span class="ct-src-badge">🇦🇺 BoM</span>
+            <span class="ct-src-badge">🌍 ECMWF</span>
+            <span class="ct-src-badge">🔬 IITM</span>
+            <span class="ct-src-badge">🌊 JAMSTEC</span>
+          </div>
+        </div>
+        <div class="ct-table-wrapper">
+          <table class="ct-table">
+            <thead>
+              <tr class="ct-thead-group">
+                <th rowspan="2" class="ct-th-month">Month</th>
+                <th colspan="3" class="ct-th-group enso-group">ENSO</th>
+                <th colspan="2" class="ct-th-group iod-group">IOD</th>
+                <th colspan="2" class="ct-th-group mjo-group">MJO</th>
+                <th colspan="3" class="ct-th-group ocean-group">Ocean &amp; SST Anomalies</th>
+                <th colspan="2" class="ct-th-group monsoon-group">Monsoon</th>
+                <th class="ct-th-group cyclone-group">Cyclone Activity</th>
+                <th class="ct-th-group extreme-group">Extreme Events</th>
+                <th class="ct-th-group combo-group">Combination</th>
+                <th class="ct-th-group imd-group">IMD Outlook</th>
+                <th class="ct-th-group remarks-group">Remarks</th>
+                <th class="ct-th-group src-group">Source / Updated</th>
+              </tr>
+              <tr class="ct-thead-sub">
+                <th>Phase</th><th>ONI</th><th>Niño 3.4</th>
+                <th>Phase</th><th>DMI</th>
+                <th>Phase</th><th>Amplitude</th>
+                <th>AS SST Δ</th><th>BoB SST Δ</th><th>PDO / QBO</th>
+                <th>Status</th><th>Active / Break</th>
+                <th>LPS / D / DD / CS / SCS</th>
+                <th>HW / CW / WD</th>
+                <th>ENSO + IOD Effect</th>
+                <th></th><th></th><th></th>
+              </tr>
+            </thead>
+            <tbody id="ct-tbody">
+              <tr><td colspan="19" class="ct-loading">Loading climate data…</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <div class="ct-legend">
+          <div class="ct-legend-item"><span class="ct-leg-dot" style="background:#fee2e2;border-color:#dc2626"></span>El Niño</div>
+          <div class="ct-legend-item"><span class="ct-leg-dot" style="background:#ccfbf1;border-color:#0d9488"></span>La Niña</div>
+          <div class="ct-legend-item"><span class="ct-leg-dot" style="background:#ede9fe;border-color:#7c3aed"></span>Neutral ENSO</div>
+          <div class="ct-legend-item"><span class="ct-leg-dot" style="background:#fef9c3;border-color:#a16207"></span>Positive IOD</div>
+          <div class="ct-legend-item"><span class="ct-leg-dot" style="background:#e0f2fe;border-color:#0369a1"></span>Negative IOD</div>
+          <div class="ct-legend-item"><span class="ct-leg-dot" style="background:#dcfce7;border-color:#15803d"></span>Favourable Combo</div>
+          <div class="ct-legend-item"><span class="ct-leg-dot" style="background:#fef9c3;border-color:#b45309" style="outline:2px solid #b45309"></span>▶ Current Month</div>
+        </div>
+
+        <!-- REAL-TIME CLIMATE TIMELINE RAINFALL IMPACT SUMMARY -->
+        <div class="ct-impact-summary" id="ct-impact-summary">
+          <div class="ct-is-header">
+            <span class="ct-is-badge">🌧️ Current Year Climate Impact Assessment &amp; Forecast</span>
+            <h3 id="ct-is-title">2026 Climate Drivers, ENSO Phase &amp; Monsoon Impact Summary</h3>
+          </div>
+          <div class="ct-is-grid">
+            <div class="ct-is-card">
+              <div class="ct-is-card-title">🌊 Active ENSO &amp; IOD Phase</div>
+              <div id="ct-is-enso-iod" class="ct-is-body">
+                Loading summary...
+              </div>
+            </div>
+            <div class="ct-is-card">
+              <div class="ct-is-card-title">🌧️ Monsoon Progress &amp; Onset</div>
+              <div id="ct-is-monsoon" class="ct-is-body">
+                Loading summary...
+              </div>
+            </div>
+            <div class="ct-is-card">
+              <div class="ct-is-card-title">⚡ Net Impact on Karnataka</div>
+              <div id="ct-is-impact" class="ct-is-body">
+                Loading summary...
+              </div>
+            </div>
+            <div class="ct-is-card ct-is-card-forecast">
+              <div class="ct-is-card-title">🔮 Month &amp; Next Season Forecast</div>
+              <div id="ct-is-forecast" class="ct-is-body">
+                Loading summary...
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="app-footer">
+      <p>ENSO &amp; IOD Climatological Explorer | Karnataka Spatial Rainfall Analysis (1951–2020)</p>
+    </footer>
+  </div>
+
+  <script src="karnataka_svg.js"></script>
+  <script src="app.js"></script>
+  <script src="climate_timeline.js"></script>
+  <script>
+    // Set the current year label in the timeline header
+    const _yrEl = document.getElementById('ct-year-display');
+    if (_yrEl) _yrEl.textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
