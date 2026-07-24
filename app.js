@@ -37,6 +37,14 @@ const EVENT_DESCRIPTIONS = {
   "La Niña": {
     title: "All La Niña Events Combined",
     body: "Aggregate study of all 25 La Niña years across Weak, Moderate, and Strong intensities."
+  },
+  "Positive": {
+    title: "Positive IOD Phase",
+    body: "Climatological study of Positive Indian Ocean Dipole (IOD) events. Warm SST anomalies in the western Indian Ocean enhance moisture transport towards peninsular India."
+  },
+  "Negative": {
+    title: "Negative IOD Phase",
+    body: "Climatological study of Negative Indian Ocean Dipole (IOD) events. Cool SST anomalies in the western Indian Ocean tend to reduce moisture transport over peninsular India."
   }
 };
 
@@ -183,11 +191,14 @@ function initEventListeners() {
       comboContainer.classList.add('hidden');
       singleContainer.classList.add('hidden');
 
+      // Clear all active matrix-btns across all containers to prevent duplicate active styles
+      document.querySelectorAll('.matrix-btn').forEach(b => b.classList.remove('active'));
+
       if (state.mode === 'intensity') {
         intensityContainer.classList.remove('hidden');
         state.event = 'Strong El Niño';
         // re-activate first btn
-        document.querySelector('.btn-strong-el')?.classList.add('active');
+        intensityContainer.querySelector('.btn-strong-el')?.classList.add('active');
       } else if (state.mode === 'combo') {
         comboContainer.classList.remove('hidden');
         state.event = 'El Niño + Positive IOD';
@@ -384,14 +395,40 @@ function selectDistrict(distName) {
 
 function updateHeaderStats() {
   const target = getTargetLocation();
+  const targetDisplay = getTargetLocationDisplay(target);
   const stateData = getDistrictData(target);
 
   const avgElem = document.getElementById('state-avg-val');
   const normElem = document.getElementById('state-norm-val');
+  const avgLbl = document.getElementById('state-avg-lbl');
+
+  let eventDisplay = state.event;
+  if (state.mode === 'iod' || state.event === 'Positive' || state.event === 'Negative' || state.event === 'Neutral') {
+    eventDisplay = `${state.event} IOD`;
+  }
+
+  // Dynamic stat label based on selection (District vs Region vs State) & metric
+  if (avgLbl) {
+    if (state.district) {
+      avgLbl.textContent = `${getShortName(state.district)} ${state.metric === 'dev' ? 'Dev' : 'Rainfall'}`;
+    } else if (state.region !== 'ALL') {
+      const regName = REGION_DISPLAY_NAMES[state.region] || state.region;
+      avgLbl.textContent = `${regName} ${state.metric === 'dev' ? 'Avg' : 'Rainfall'}`;
+    } else {
+      avgLbl.textContent = state.metric === 'dev' ? 'State Avg' : 'State Rainfall';
+    }
+  }
 
   if (stateData) {
-    avgElem.textContent = `${stateData.dev >= 0 ? '+' : ''}${stateData.dev}%`;
-    avgElem.className = `stat-val ${stateData.dev >= 0 ? 'positive' : 'negative'}`;
+    if (state.metric === 'dev') {
+      avgElem.textContent = `${stateData.dev >= 0 ? '+' : ''}${stateData.dev}%`;
+      avgElem.className = `stat-val ${stateData.dev >= 0 ? 'positive' : 'negative'}`;
+      avgElem.style.color = '';
+    } else {
+      avgElem.textContent = `${stateData.rf} mm`;
+      avgElem.className = 'stat-val';
+      avgElem.style.color = '#38bdf8'; // clear bright sky blue
+    }
     normElem.textContent = `${stateData.norm} mm`;
   } else {
     avgElem.textContent = '--';
@@ -399,8 +436,15 @@ function updateHeaderStats() {
     normElem.textContent = '-- mm';
   }
 
+  const metricTitle = state.metric === 'dev' ? 'Rainfall Deviation (%)' : 'Actual Rainfall (mm)';
   document.getElementById('map-card-subtitle').textContent =
-    `Spatial ${state.season} Rainfall Deviation during ${state.event} (${target})`;
+    `Spatial ${state.season} ${metricTitle} during ${eventDisplay} (${targetDisplay})`;
+
+  // Update Map Legend Label
+  const legendLabel = document.querySelector('.map-legend .legend-label');
+  if (legendLabel) {
+    legendLabel.textContent = state.metric === 'dev' ? 'Deviation:' : 'Rainfall Category (by Dev):';
+  }
 }
 
 function updateRegionalSummaries() {
@@ -427,7 +471,7 @@ function updateRegionalSummaries() {
       elem.style.color = getColorForDev(data.dev);
     } else {
       elem.textContent = `${data.rf} mm`;
-      elem.style.color = '#1a202c'; // readable dark color (was wrongly #ffffff)
+      elem.style.color = '#38bdf8'; // bright clear blue for mm
     }
   });
 }
@@ -470,9 +514,14 @@ function updateOceanSchematic() {
 }
 
 function updateEduCard() {
+  let eventDisplay = state.event;
+  if (state.mode === 'iod' || state.event === 'Positive' || state.event === 'Negative' || state.event === 'Neutral') {
+    eventDisplay = `${state.event} IOD Phase`;
+  }
+
   const card = EVENT_DESCRIPTIONS[state.event] || {
-    title: `${state.event} Impact Analysis`,
-    body: `Evaluating spatial rainfall distribution across Karnataka for ${state.event}.`
+    title: `${eventDisplay} Impact Analysis`,
+    body: `Evaluating spatial rainfall distribution across Karnataka for ${eventDisplay}.`
   };
 
   document.getElementById('edu-title').innerHTML = card.title;
@@ -483,16 +532,22 @@ function updateEduCard() {
 function updateYearwiseChart() {
   const ctx = document.getElementById('yearwise-line-chart').getContext('2d');
   const targetLoc = getTargetLocation();
+  const targetLocDisplay = getTargetLocationDisplay(targetLoc);
+
+  let eventDisplay = state.event;
+  if (state.mode === 'iod' || state.event === 'Positive' || state.event === 'Negative' || state.event === 'Neutral') {
+    eventDisplay = `${state.event} IOD`;
+  }
 
   document.getElementById('chart-main-title').textContent = 
-    `Year-wise Historical Rainfall (${targetLoc})`;
+    `Year-wise Historical Rainfall (${targetLocDisplay})`;
   document.getElementById('chart-main-subtitle').textContent = 
-    `Comparing ${state.event} Years vs Baseline Normal Line for ${state.season}`;
+    `Comparing ${eventDisplay} Years vs Baseline Normal Line for ${state.season}`;
 
   // Update phase badge with phase color
   const phasePalette = getPhaseColor(state.event);
   const badge = document.getElementById('chart-phase-badge');
-  badge.textContent = state.event;
+  badge.textContent = eventDisplay;
   badge.style.background = phasePalette.bg;
   badge.style.color = phasePalette.color;
   badge.style.borderColor = phasePalette.color;
@@ -589,19 +644,46 @@ const REGION_KEY_MAP = {
   'SIK':        'SIK',
   'Malnad Kar': 'Malnad Kar'
 };
+
+const REGION_DISPLAY_NAMES = {
+  'ALL':        'State',
+  'Costal Kar': 'Coastal',
+  'NIK':        'NIK',
+  'SIK':        'SIK',
+  'Malnad Kar': 'Malnad'
+};
+
 function getTargetLocation() {
   if (state.district) return state.district;
   return REGION_KEY_MAP[state.region] || 'Karnataka';
 }
 
+function getTargetLocationDisplay(locKey) {
+  const map = {
+    'Karnataka': 'State-wide Karnataka',
+    'Costal Kar': 'Coastal Karnataka',
+    'NIK': 'North Interior Karnataka (NIK)',
+    'SIK': 'South Interior Karnataka (SIK)',
+    'Malnad Kar': 'Malnad Region'
+  };
+  return map[locKey] || locKey;
+}
+
 // Detail Table Engine
 function updateDetailTable() {
   const targetLoc = getTargetLocation();
-  document.getElementById('detail-district-name').textContent = targetLoc;
+  const targetLocDisplay = getTargetLocationDisplay(targetLoc);
+
+  let eventDisplay = state.event;
+  if (state.mode === 'iod' || state.event === 'Positive' || state.event === 'Negative' || state.event === 'Neutral') {
+    eventDisplay = `${state.event} IOD`;
+  }
+
+  document.getElementById('detail-district-name').textContent = targetLocDisplay;
   document.getElementById('detail-district-region').textContent = 
     state.district
-      ? `District Climatological Breakdown — ${KARNATAKA_DISTRICT_SVG[targetLoc]?.region || 'Karnataka'} | Phase: ${state.event}`
-      : `State-wide Breakdown | Phase: ${state.event}`;
+      ? `District Climatological Breakdown — ${KARNATAKA_DISTRICT_SVG[targetLoc]?.region || 'Karnataka'} | Phase: ${eventDisplay}`
+      : `Location Breakdown (${targetLocDisplay}) | Phase: ${eventDisplay}`;
 
   // Apply phase color to detail card border
   const phasePalette = getPhaseColor(state.event);
@@ -672,9 +754,14 @@ function updatePhaseSummary() {
   const activeEvent = state.event;
   const activeSeason = state.season;
 
+  let eventDisplay = activeEvent;
+  if (state.mode === 'iod' || activeEvent === 'Positive' || activeEvent === 'Negative' || activeEvent === 'Neutral') {
+    eventDisplay = `${activeEvent} IOD Phase`;
+  }
+
   // Title
   document.getElementById('ps-title').innerHTML = 
-    `Rainfall Impact Summary — <strong>${activeEvent}</strong> (${activeSeason})`;
+    `Rainfall Impact Summary — <strong>${eventDisplay}</strong> (${activeSeason})`;
 
   // 1. Karnataka State-wide
   const karData = getEventDataObject(appData['Karnataka'], state.mode, activeEvent)?.[activeSeason];
@@ -705,7 +792,7 @@ function updatePhaseSummary() {
 
   // 2. Regional Performance (Coastal, NIK, SIK, Malnad)
   const regions = [
-    { key: 'Costal Kar', name: 'Coastal Kar', icon: '🏖️' },
+    { key: 'Costal Kar', name: 'Coastal Karnataka', icon: '🏖️' },
     { key: 'NIK',        name: 'North Interior (NIK)', icon: '🌾' },
     { key: 'SIK',        name: 'South Interior (SIK)', icon: '🌇' },
     { key: 'Malnad Kar', name: 'Malnad Region', icon: '⛰️' }

@@ -1,0 +1,7562 @@
+[
+  {
+    "District":"Bengaluru Urban",
+    "Year":1981,
+    "Actual":837.8,
+    "Normal":524.68,
+    "Departure":59.6783,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1982,
+    "Actual":614.8,
+    "Normal":524.68,
+    "Departure":17.1762,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1983,
+    "Actual":552.2,
+    "Normal":524.68,
+    "Departure":5.2451,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1984,
+    "Actual":392.5,
+    "Normal":524.68,
+    "Departure":-25.1925,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1985,
+    "Actual":273.5,
+    "Normal":524.68,
+    "Departure":-47.873,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1986,
+    "Actual":491.7,
+    "Normal":524.68,
+    "Departure":-6.2857,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1987,
+    "Actual":758.2,
+    "Normal":524.68,
+    "Departure":44.5071,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1988,
+    "Actual":515.9,
+    "Normal":524.68,
+    "Departure":-1.6734,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1989,
+    "Actual":680.4,
+    "Normal":524.68,
+    "Departure":29.679,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1990,
+    "Actual":540.1,
+    "Normal":524.68,
+    "Departure":2.9389,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1991,
+    "Actual":378.3,
+    "Normal":524.68,
+    "Departure":-27.8989,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1992,
+    "Actual":226.7,
+    "Normal":524.68,
+    "Departure":-56.7927,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1993,
+    "Actual":449.6,
+    "Normal":524.68,
+    "Departure":-14.3097,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1994,
+    "Actual":363.1,
+    "Normal":524.68,
+    "Departure":-30.7959,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1995,
+    "Actual":347.4,
+    "Normal":524.68,
+    "Departure":-33.7882,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1996,
+    "Actual":511.7,
+    "Normal":524.68,
+    "Departure":-2.4739,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1997,
+    "Actual":266.5,
+    "Normal":524.68,
+    "Departure":-49.2071,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1998,
+    "Actual":663.8,
+    "Normal":524.68,
+    "Departure":26.5152,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":1999,
+    "Actual":464.8,
+    "Normal":524.68,
+    "Departure":-11.4127,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2000,
+    "Actual":392.1,
+    "Normal":524.68,
+    "Departure":-25.2687,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2001,
+    "Actual":340.1,
+    "Normal":524.68,
+    "Departure":-35.1795,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2002,
+    "Actual":469.5,
+    "Normal":524.68,
+    "Departure":-10.5169,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2003,
+    "Actual":205.3,
+    "Normal":524.68,
+    "Departure":-60.8714,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2004,
+    "Actual":559.0,
+    "Normal":524.68,
+    "Departure":6.5411,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2005,
+    "Actual":828.1,
+    "Normal":524.68,
+    "Departure":57.8295,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2006,
+    "Actual":462.6,
+    "Normal":524.68,
+    "Departure":-11.832,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2007,
+    "Actual":722.9,
+    "Normal":524.68,
+    "Departure":37.7792,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2008,
+    "Actual":517.5,
+    "Normal":524.68,
+    "Departure":-1.3685,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2009,
+    "Actual":1083.2,
+    "Normal":524.68,
+    "Departure":106.4496,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2010,
+    "Actual":763.7,
+    "Normal":524.68,
+    "Departure":45.5554,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2011,
+    "Actual":591.8,
+    "Normal":524.68,
+    "Departure":12.7926,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2012,
+    "Actual":431.5,
+    "Normal":524.68,
+    "Departure":-17.7594,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2013,
+    "Actual":563.4,
+    "Normal":524.68,
+    "Departure":7.3797,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2014,
+    "Actual":593.8,
+    "Normal":524.68,
+    "Departure":13.1737,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Year":2015,
+    "Actual":510.3,
+    "Normal":524.68,
+    "Departure":-2.7407,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":1981,
+    "Actual":497.7,
+    "Normal":763.4914,
+    "Departure":-34.8126,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":1982,
+    "Actual":829.0,
+    "Normal":763.4914,
+    "Departure":8.5801,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":1983,
+    "Actual":859.9,
+    "Normal":763.4914,
+    "Departure":12.6273,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":1984,
+    "Actual":572.4,
+    "Normal":763.4914,
+    "Departure":-25.0286,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":1985,
+    "Actual":651.8,
+    "Normal":763.4914,
+    "Departure":-14.629,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":1986,
+    "Actual":777.1,
+    "Normal":763.4914,
+    "Departure":1.7824,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":1987,
+    "Actual":882.3,
+    "Normal":763.4914,
+    "Departure":15.5612,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":1988,
+    "Actual":652.8,
+    "Normal":763.4914,
+    "Departure":-14.4981,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":1989,
+    "Actual":414.1,
+    "Normal":763.4914,
+    "Departure":-45.7623,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":1990,
+    "Actual":544.4,
+    "Normal":763.4914,
+    "Departure":-28.696,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":1991,
+    "Actual":1104.5,
+    "Normal":763.4914,
+    "Departure":44.6644,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":1992,
+    "Actual":768.5,
+    "Normal":763.4914,
+    "Departure":0.656,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":1993,
+    "Actual":670.2,
+    "Normal":763.4914,
+    "Departure":-12.2191,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":1994,
+    "Actual":718.2,
+    "Normal":763.4914,
+    "Departure":-5.9321,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":1995,
+    "Actual":531.1,
+    "Normal":763.4914,
+    "Departure":-30.438,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":1996,
+    "Actual":570.7,
+    "Normal":763.4914,
+    "Departure":-25.2513,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":1997,
+    "Actual":720.6,
+    "Normal":763.4914,
+    "Departure":-5.6178,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":1998,
+    "Actual":536.1,
+    "Normal":763.4914,
+    "Departure":-29.7831,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":1999,
+    "Actual":672.9,
+    "Normal":763.4914,
+    "Departure":-11.8654,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":2000,
+    "Actual":688.9,
+    "Normal":763.4914,
+    "Departure":-9.7698,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":2001,
+    "Actual":324.3,
+    "Normal":763.4914,
+    "Departure":-57.5241,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":2002,
+    "Actual":667.6,
+    "Normal":763.4914,
+    "Departure":-12.5596,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":2003,
+    "Actual":485.4,
+    "Normal":763.4914,
+    "Departure":-36.4236,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":2004,
+    "Actual":602.2,
+    "Normal":763.4914,
+    "Departure":-21.1255,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":2005,
+    "Actual":3116.5,
+    "Normal":763.4914,
+    "Departure":308.1906,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":2006,
+    "Actual":404.7,
+    "Normal":763.4914,
+    "Departure":-46.9935,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":2007,
+    "Actual":728.8,
+    "Normal":763.4914,
+    "Departure":-4.5438,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":2008,
+    "Actual":661.1,
+    "Normal":763.4914,
+    "Departure":-13.4109,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":2009,
+    "Actual":872.8,
+    "Normal":763.4914,
+    "Departure":14.3169,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":2010,
+    "Actual":904.8,
+    "Normal":763.4914,
+    "Departure":18.5082,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":2011,
+    "Actual":958.3,
+    "Normal":763.4914,
+    "Departure":25.5155,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":2012,
+    "Actual":1393.5,
+    "Normal":763.4914,
+    "Departure":82.5168,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Ballari",
+    "Year":2013,
+    "Actual":611.8,
+    "Normal":763.4914,
+    "Departure":-19.8681,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Ballari",
+    "Year":2014,
+    "Actual":863.3,
+    "Normal":763.4914,
+    "Departure":13.0727,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Ballari",
+    "Year":2015,
+    "Actual":463.9,
+    "Normal":763.4914,
+    "Departure":-39.2397,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1981,
+    "Actual":780.2,
+    "Normal":794.6514,
+    "Departure":-1.8186,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1982,
+    "Actual":774.0,
+    "Normal":794.6514,
+    "Departure":-2.5988,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1983,
+    "Actual":792.7,
+    "Normal":794.6514,
+    "Departure":-0.2456,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1984,
+    "Actual":765.4,
+    "Normal":794.6514,
+    "Departure":-3.681,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1985,
+    "Actual":609.6,
+    "Normal":794.6514,
+    "Departure":-23.2871,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1986,
+    "Actual":1014.3,
+    "Normal":794.6514,
+    "Departure":27.6409,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1987,
+    "Actual":754.1,
+    "Normal":794.6514,
+    "Departure":-5.103,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1988,
+    "Actual":1049.5,
+    "Normal":794.6514,
+    "Departure":32.0705,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1989,
+    "Actual":803.6,
+    "Normal":794.6514,
+    "Departure":1.1261,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1990,
+    "Actual":503.8,
+    "Normal":794.6514,
+    "Departure":-36.6011,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1991,
+    "Actual":1284.8,
+    "Normal":794.6514,
+    "Departure":61.681,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1992,
+    "Actual":760.1,
+    "Normal":794.6514,
+    "Departure":-4.348,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1993,
+    "Actual":620.6,
+    "Normal":794.6514,
+    "Departure":-21.9029,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1994,
+    "Actual":417.7,
+    "Normal":794.6514,
+    "Departure":-47.4361,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1995,
+    "Actual":337.4,
+    "Normal":794.6514,
+    "Departure":-57.5411,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1996,
+    "Actual":451.6,
+    "Normal":794.6514,
+    "Departure":-43.1701,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1997,
+    "Actual":485.2,
+    "Normal":794.6514,
+    "Departure":-38.9418,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1998,
+    "Actual":1307.2,
+    "Normal":794.6514,
+    "Departure":64.4998,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":1999,
+    "Actual":445.6,
+    "Normal":794.6514,
+    "Departure":-43.9251,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2000,
+    "Actual":430.3,
+    "Normal":794.6514,
+    "Departure":-45.8505,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2001,
+    "Actual":448.2,
+    "Normal":794.6514,
+    "Departure":-43.5979,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2002,
+    "Actual":295.5,
+    "Normal":794.6514,
+    "Departure":-62.8139,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2003,
+    "Actual":714.0,
+    "Normal":794.6514,
+    "Departure":-10.1493,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2004,
+    "Actual":1072.3,
+    "Normal":794.6514,
+    "Departure":34.9397,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2005,
+    "Actual":1422.1,
+    "Normal":794.6514,
+    "Departure":78.959,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2006,
+    "Actual":586.5,
+    "Normal":794.6514,
+    "Departure":-26.1941,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2007,
+    "Actual":1075.8,
+    "Normal":794.6514,
+    "Departure":35.3801,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2008,
+    "Actual":1060.8,
+    "Normal":794.6514,
+    "Departure":33.4925,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2009,
+    "Actual":777.7,
+    "Normal":794.6514,
+    "Departure":-2.1332,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2010,
+    "Actual":942.7,
+    "Normal":794.6514,
+    "Departure":18.6306,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2011,
+    "Actual":1189.6,
+    "Normal":794.6514,
+    "Departure":49.7009,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2012,
+    "Actual":675.8,
+    "Normal":794.6514,
+    "Departure":-14.9564,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2013,
+    "Actual":1077.6,
+    "Normal":794.6514,
+    "Departure":35.6066,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2014,
+    "Actual":902.8,
+    "Normal":794.6514,
+    "Departure":13.6096,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Year":2015,
+    "Actual":1183.7,
+    "Normal":794.6514,
+    "Departure":48.9584,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1981,
+    "Actual":1239.7,
+    "Normal":967.5314,
+    "Departure":28.1302,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1982,
+    "Actual":1006.1,
+    "Normal":967.5314,
+    "Departure":3.9863,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1983,
+    "Actual":1188.5,
+    "Normal":967.5314,
+    "Departure":22.8384,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1984,
+    "Actual":1058.1,
+    "Normal":967.5314,
+    "Departure":9.3608,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1985,
+    "Actual":746.9,
+    "Normal":967.5314,
+    "Departure":-22.8035,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1986,
+    "Actual":871.6,
+    "Normal":967.5314,
+    "Departure":-9.9151,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1987,
+    "Actual":828.8,
+    "Normal":967.5314,
+    "Departure":-14.3387,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1988,
+    "Actual":932.4,
+    "Normal":967.5314,
+    "Departure":-3.631,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1989,
+    "Actual":749.9,
+    "Normal":967.5314,
+    "Departure":-22.4935,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1990,
+    "Actual":1053.7,
+    "Normal":967.5314,
+    "Departure":8.906,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1991,
+    "Actual":1107.8,
+    "Normal":967.5314,
+    "Departure":14.4976,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1992,
+    "Actual":822.9,
+    "Normal":967.5314,
+    "Departure":-14.9485,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1993,
+    "Actual":804.7,
+    "Normal":967.5314,
+    "Departure":-16.8296,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1994,
+    "Actual":811.2,
+    "Normal":967.5314,
+    "Departure":-16.1578,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1995,
+    "Actual":780.6,
+    "Normal":967.5314,
+    "Departure":-19.3205,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1996,
+    "Actual":644.7,
+    "Normal":967.5314,
+    "Departure":-33.3665,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1997,
+    "Actual":1115.5,
+    "Normal":967.5314,
+    "Departure":15.2934,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1998,
+    "Actual":460.7,
+    "Normal":967.5314,
+    "Departure":-52.384,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":1999,
+    "Actual":778.2,
+    "Normal":967.5314,
+    "Departure":-19.5685,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2000,
+    "Actual":592.8,
+    "Normal":967.5314,
+    "Departure":-38.7307,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2001,
+    "Actual":523.7,
+    "Normal":967.5314,
+    "Departure":-45.8726,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2002,
+    "Actual":431.8,
+    "Normal":967.5314,
+    "Departure":-55.371,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2003,
+    "Actual":785.8,
+    "Normal":967.5314,
+    "Departure":-18.783,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2004,
+    "Actual":1272.2,
+    "Normal":967.5314,
+    "Departure":31.4893,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2005,
+    "Actual":3366.4,
+    "Normal":967.5314,
+    "Departure":247.937,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2006,
+    "Actual":1101.3,
+    "Normal":967.5314,
+    "Departure":13.8258,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2007,
+    "Actual":1180.1,
+    "Normal":967.5314,
+    "Departure":21.9702,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2008,
+    "Actual":926.0,
+    "Normal":967.5314,
+    "Departure":-4.2925,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2009,
+    "Actual":1174.2,
+    "Normal":967.5314,
+    "Departure":21.3604,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2010,
+    "Actual":861.7,
+    "Normal":967.5314,
+    "Departure":-10.9383,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2011,
+    "Actual":1343.7,
+    "Normal":967.5314,
+    "Departure":38.8792,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2012,
+    "Actual":1115.0,
+    "Normal":967.5314,
+    "Departure":15.2417,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2013,
+    "Actual":851.4,
+    "Normal":967.5314,
+    "Departure":-12.0029,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2014,
+    "Actual":654.9,
+    "Normal":967.5314,
+    "Departure":-32.3123,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Belagavi",
+    "Year":2015,
+    "Actual":680.6,
+    "Normal":967.5314,
+    "Departure":-29.656,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1981,
+    "Actual":1897.7,
+    "Normal":1105.5743,
+    "Departure":71.6483,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1982,
+    "Actual":934.8,
+    "Normal":1105.5743,
+    "Departure":-15.4467,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1983,
+    "Actual":1308.0,
+    "Normal":1105.5743,
+    "Departure":18.3096,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1984,
+    "Actual":1005.3,
+    "Normal":1105.5743,
+    "Departure":-9.0699,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1985,
+    "Actual":1137.5,
+    "Normal":1105.5743,
+    "Departure":2.8877,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1986,
+    "Actual":1196.8,
+    "Normal":1105.5743,
+    "Departure":8.2514,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1987,
+    "Actual":1181.4,
+    "Normal":1105.5743,
+    "Departure":6.8585,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1988,
+    "Actual":1100.1,
+    "Normal":1105.5743,
+    "Departure":-0.4952,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1989,
+    "Actual":1092.4,
+    "Normal":1105.5743,
+    "Departure":-1.1916,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1990,
+    "Actual":794.5,
+    "Normal":1105.5743,
+    "Departure":-28.1369,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1991,
+    "Actual":1896.8,
+    "Normal":1105.5743,
+    "Departure":71.5669,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1992,
+    "Actual":1615.3,
+    "Normal":1105.5743,
+    "Departure":46.1051,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1993,
+    "Actual":1648.6,
+    "Normal":1105.5743,
+    "Departure":49.1171,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1994,
+    "Actual":1048.3,
+    "Normal":1105.5743,
+    "Departure":-5.1805,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1995,
+    "Actual":986.1,
+    "Normal":1105.5743,
+    "Departure":-10.8065,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1996,
+    "Actual":1440.8,
+    "Normal":1105.5743,
+    "Departure":30.3214,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1997,
+    "Actual":630.1,
+    "Normal":1105.5743,
+    "Departure":-43.007,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1998,
+    "Actual":1206.2,
+    "Normal":1105.5743,
+    "Departure":9.1017,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":1999,
+    "Actual":1244.4,
+    "Normal":1105.5743,
+    "Departure":12.5569,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2000,
+    "Actual":1569.8,
+    "Normal":1105.5743,
+    "Departure":41.9896,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2001,
+    "Actual":1080.9,
+    "Normal":1105.5743,
+    "Departure":-2.2318,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2002,
+    "Actual":634.5,
+    "Normal":1105.5743,
+    "Departure":-42.609,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2003,
+    "Actual":900.7,
+    "Normal":1105.5743,
+    "Departure":-18.531,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2004,
+    "Actual":799.3,
+    "Normal":1105.5743,
+    "Departure":-27.7027,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2005,
+    "Actual":1341.5,
+    "Normal":1105.5743,
+    "Departure":21.3397,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2006,
+    "Actual":662.0,
+    "Normal":1105.5743,
+    "Departure":-40.1216,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2007,
+    "Actual":1437.0,
+    "Normal":1105.5743,
+    "Departure":29.9777,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2008,
+    "Actual":1058.1,
+    "Normal":1105.5743,
+    "Departure":-4.2941,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2009,
+    "Actual":862.2,
+    "Normal":1105.5743,
+    "Departure":-22.0134,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2010,
+    "Actual":902.9,
+    "Normal":1105.5743,
+    "Departure":-18.332,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2011,
+    "Actual":771.3,
+    "Normal":1105.5743,
+    "Departure":-30.2354,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2012,
+    "Actual":773.3,
+    "Normal":1105.5743,
+    "Departure":-30.0545,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2013,
+    "Actual":741.9,
+    "Normal":1105.5743,
+    "Departure":-32.8946,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2014,
+    "Actual":732.7,
+    "Normal":1105.5743,
+    "Departure":-33.7268,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chamarajanagar",
+    "Year":2015,
+    "Actual":1061.9,
+    "Normal":1105.5743,
+    "Departure":-3.9504,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":1981,
+    "Actual":1061.4,
+    "Normal":957.0543,
+    "Departure":10.9028,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":1982,
+    "Actual":1088.4,
+    "Normal":957.0543,
+    "Departure":13.724,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":1983,
+    "Actual":1754.9,
+    "Normal":957.0543,
+    "Departure":83.3647,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":1984,
+    "Actual":615.7,
+    "Normal":957.0543,
+    "Departure":-35.6672,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":1985,
+    "Actual":918.9,
+    "Normal":957.0543,
+    "Departure":-3.9866,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":1986,
+    "Actual":595.7,
+    "Normal":957.0543,
+    "Departure":-37.7569,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":1987,
+    "Actual":832.2,
+    "Normal":957.0543,
+    "Departure":-13.0457,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":1988,
+    "Actual":1472.3,
+    "Normal":957.0543,
+    "Departure":53.8366,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":1989,
+    "Actual":1263.2,
+    "Normal":957.0543,
+    "Departure":31.9883,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":1990,
+    "Actual":1344.9,
+    "Normal":957.0543,
+    "Departure":40.5249,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":1991,
+    "Actual":682.7,
+    "Normal":957.0543,
+    "Departure":-28.6665,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":1992,
+    "Actual":800.5,
+    "Normal":957.0543,
+    "Departure":-16.3579,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":1993,
+    "Actual":756.6,
+    "Normal":957.0543,
+    "Departure":-20.9449,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":1994,
+    "Actual":640.5,
+    "Normal":957.0543,
+    "Departure":-33.0759,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":1995,
+    "Actual":1208.2,
+    "Normal":957.0543,
+    "Departure":26.2415,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":1996,
+    "Actual":1048.3,
+    "Normal":957.0543,
+    "Departure":9.534,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":1997,
+    "Actual":803.9,
+    "Normal":957.0543,
+    "Departure":-16.0027,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":1998,
+    "Actual":1091.6,
+    "Normal":957.0543,
+    "Departure":14.0583,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":1999,
+    "Actual":876.6,
+    "Normal":957.0543,
+    "Departure":-8.4064,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":2000,
+    "Actual":1024.2,
+    "Normal":957.0543,
+    "Departure":7.0159,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":2001,
+    "Actual":998.6,
+    "Normal":957.0543,
+    "Departure":4.341,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":2002,
+    "Actual":852.3,
+    "Normal":957.0543,
+    "Departure":-10.9455,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":2003,
+    "Actual":948.8,
+    "Normal":957.0543,
+    "Departure":-0.8625,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":2004,
+    "Actual":719.1,
+    "Normal":957.0543,
+    "Departure":-24.8632,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":2005,
+    "Actual":1380.2,
+    "Normal":957.0543,
+    "Departure":44.2133,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":2006,
+    "Actual":901.2,
+    "Normal":957.0543,
+    "Departure":-5.8361,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":2007,
+    "Actual":720.3,
+    "Normal":957.0543,
+    "Departure":-24.7378,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":2008,
+    "Actual":1024.9,
+    "Normal":957.0543,
+    "Departure":7.089,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":2009,
+    "Actual":770.0,
+    "Normal":957.0543,
+    "Departure":-19.5448,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":2010,
+    "Actual":988.8,
+    "Normal":957.0543,
+    "Departure":3.317,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":2011,
+    "Actual":600.1,
+    "Normal":957.0543,
+    "Departure":-37.2972,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":2012,
+    "Actual":828.0,
+    "Normal":957.0543,
+    "Departure":-13.4845,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Bidar",
+    "Year":2013,
+    "Actual":1349.0,
+    "Normal":957.0543,
+    "Departure":40.9533,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Bidar",
+    "Year":2014,
+    "Actual":703.0,
+    "Normal":957.0543,
+    "Departure":-26.5454,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Bidar",
+    "Year":2015,
+    "Actual":831.9,
+    "Normal":957.0543,
+    "Departure":-13.077,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1981,
+    "Actual":436.8,
+    "Normal":479.5171,
+    "Departure":-8.9084,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1982,
+    "Actual":574.1,
+    "Normal":479.5171,
+    "Departure":19.7246,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1983,
+    "Actual":345.3,
+    "Normal":479.5171,
+    "Departure":-27.9901,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1984,
+    "Actual":339.1,
+    "Normal":479.5171,
+    "Departure":-29.283,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1985,
+    "Actual":340.3,
+    "Normal":479.5171,
+    "Departure":-29.0328,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1986,
+    "Actual":524.8,
+    "Normal":479.5171,
+    "Departure":9.4434,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1987,
+    "Actual":444.2,
+    "Normal":479.5171,
+    "Departure":-7.3651,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1988,
+    "Actual":496.7,
+    "Normal":479.5171,
+    "Departure":3.5834,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1989,
+    "Actual":467.6,
+    "Normal":479.5171,
+    "Departure":-2.4852,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1990,
+    "Actual":425.2,
+    "Normal":479.5171,
+    "Departure":-11.3275,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1991,
+    "Actual":518.7,
+    "Normal":479.5171,
+    "Departure":8.1713,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1992,
+    "Actual":557.0,
+    "Normal":479.5171,
+    "Departure":16.1585,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1993,
+    "Actual":316.1,
+    "Normal":479.5171,
+    "Departure":-34.0795,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1994,
+    "Actual":324.0,
+    "Normal":479.5171,
+    "Departure":-32.432,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1995,
+    "Actual":248.4,
+    "Normal":479.5171,
+    "Departure":-48.1979,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1996,
+    "Actual":155.2,
+    "Normal":479.5171,
+    "Departure":-67.6341,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1997,
+    "Actual":510.1,
+    "Normal":479.5171,
+    "Departure":6.3778,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1998,
+    "Actual":602.6,
+    "Normal":479.5171,
+    "Departure":25.6681,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":1999,
+    "Actual":399.3,
+    "Normal":479.5171,
+    "Departure":-16.7287,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2000,
+    "Actual":590.6,
+    "Normal":479.5171,
+    "Departure":23.1656,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2001,
+    "Actual":517.6,
+    "Normal":479.5171,
+    "Departure":7.9419,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2002,
+    "Actual":380.4,
+    "Normal":479.5171,
+    "Departure":-20.6702,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2003,
+    "Actual":308.8,
+    "Normal":479.5171,
+    "Departure":-35.6019,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2004,
+    "Actual":300.7,
+    "Normal":479.5171,
+    "Departure":-37.2911,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2005,
+    "Actual":715.3,
+    "Normal":479.5171,
+    "Departure":49.1709,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2006,
+    "Actual":393.7,
+    "Normal":479.5171,
+    "Departure":-17.8966,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2007,
+    "Actual":600.0,
+    "Normal":479.5171,
+    "Departure":25.1259,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2008,
+    "Actual":681.6,
+    "Normal":479.5171,
+    "Departure":42.143,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2009,
+    "Actual":758.5,
+    "Normal":479.5171,
+    "Departure":58.18,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2010,
+    "Actual":659.1,
+    "Normal":479.5171,
+    "Departure":37.4508,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2011,
+    "Actual":393.4,
+    "Normal":479.5171,
+    "Departure":-17.9591,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2012,
+    "Actual":547.0,
+    "Normal":479.5171,
+    "Departure":14.0731,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2013,
+    "Actual":539.6,
+    "Normal":479.5171,
+    "Departure":12.5299,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2014,
+    "Actual":716.0,
+    "Normal":479.5171,
+    "Departure":49.3169,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chitradurga",
+    "Year":2015,
+    "Actual":655.3,
+    "Normal":479.5171,
+    "Departure":36.6583,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1981,
+    "Actual":622.1,
+    "Normal":766.5657,
+    "Departure":-18.8458,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1982,
+    "Actual":479.6,
+    "Normal":766.5657,
+    "Departure":-37.4352,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1983,
+    "Actual":983.5,
+    "Normal":766.5657,
+    "Departure":28.2995,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1984,
+    "Actual":578.8,
+    "Normal":766.5657,
+    "Departure":-24.4944,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1985,
+    "Actual":360.3,
+    "Normal":766.5657,
+    "Departure":-52.9982,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1986,
+    "Actual":427.2,
+    "Normal":766.5657,
+    "Departure":-44.2709,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1987,
+    "Actual":653.6,
+    "Normal":766.5657,
+    "Departure":-14.7366,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1988,
+    "Actual":399.2,
+    "Normal":766.5657,
+    "Departure":-47.9236,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1989,
+    "Actual":644.4,
+    "Normal":766.5657,
+    "Departure":-15.9368,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1990,
+    "Actual":737.5,
+    "Normal":766.5657,
+    "Departure":-3.7917,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1991,
+    "Actual":787.2,
+    "Normal":766.5657,
+    "Departure":2.6918,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1992,
+    "Actual":942.0,
+    "Normal":766.5657,
+    "Departure":22.8857,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1993,
+    "Actual":749.0,
+    "Normal":766.5657,
+    "Departure":-2.2915,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1994,
+    "Actual":868.8,
+    "Normal":766.5657,
+    "Departure":13.3367,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1995,
+    "Actual":915.0,
+    "Normal":766.5657,
+    "Departure":19.3635,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1996,
+    "Actual":784.5,
+    "Normal":766.5657,
+    "Departure":2.3396,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1997,
+    "Actual":778.1,
+    "Normal":766.5657,
+    "Departure":1.5047,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1998,
+    "Actual":622.8,
+    "Normal":766.5657,
+    "Departure":-18.7545,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":1999,
+    "Actual":1123.2,
+    "Normal":766.5657,
+    "Departure":46.5236,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2000,
+    "Actual":832.7,
+    "Normal":766.5657,
+    "Departure":8.6273,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2001,
+    "Actual":661.5,
+    "Normal":766.5657,
+    "Departure":-13.706,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2002,
+    "Actual":424.3,
+    "Normal":766.5657,
+    "Departure":-44.6492,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2003,
+    "Actual":341.3,
+    "Normal":766.5657,
+    "Departure":-55.4767,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2004,
+    "Actual":1173.6,
+    "Normal":766.5657,
+    "Departure":53.0984,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2005,
+    "Actual":1100.3,
+    "Normal":766.5657,
+    "Departure":43.5363,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2006,
+    "Actual":427.4,
+    "Normal":766.5657,
+    "Departure":-44.2448,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2007,
+    "Actual":826.4,
+    "Normal":766.5657,
+    "Departure":7.8055,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2008,
+    "Actual":954.7,
+    "Normal":766.5657,
+    "Departure":24.5425,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2009,
+    "Actual":933.4,
+    "Normal":766.5657,
+    "Departure":21.7639,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2010,
+    "Actual":1087.6,
+    "Normal":766.5657,
+    "Departure":41.8796,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2011,
+    "Actual":1102.9,
+    "Normal":766.5657,
+    "Departure":43.8755,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2012,
+    "Actual":582.9,
+    "Normal":766.5657,
+    "Departure":-23.9596,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2013,
+    "Actual":904.1,
+    "Normal":766.5657,
+    "Departure":17.9416,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2014,
+    "Actual":1034.3,
+    "Normal":766.5657,
+    "Departure":34.9265,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Year":2015,
+    "Actual":985.6,
+    "Normal":766.5657,
+    "Departure":28.5735,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1981,
+    "Actual":3890.8,
+    "Normal":3821.3171,
+    "Departure":1.8183,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1982,
+    "Actual":3845.7,
+    "Normal":3821.3171,
+    "Departure":0.6381,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1983,
+    "Actual":3664.1,
+    "Normal":3821.3171,
+    "Departure":-4.1142,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1984,
+    "Actual":3226.1,
+    "Normal":3821.3171,
+    "Departure":-15.5762,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1985,
+    "Actual":3406.3,
+    "Normal":3821.3171,
+    "Departure":-10.8606,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1986,
+    "Actual":3559.9,
+    "Normal":3821.3171,
+    "Departure":-6.841,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1987,
+    "Actual":2723.1,
+    "Normal":3821.3171,
+    "Departure":-28.7392,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1988,
+    "Actual":3634.5,
+    "Normal":3821.3171,
+    "Departure":-4.8888,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1989,
+    "Actual":3933.4,
+    "Normal":3821.3171,
+    "Departure":2.9331,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1990,
+    "Actual":4154.8,
+    "Normal":3821.3171,
+    "Departure":8.7269,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1991,
+    "Actual":4226.8,
+    "Normal":3821.3171,
+    "Departure":10.6111,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1992,
+    "Actual":3960.9,
+    "Normal":3821.3171,
+    "Departure":3.6527,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1993,
+    "Actual":4091.6,
+    "Normal":3821.3171,
+    "Departure":7.073,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1994,
+    "Actual":4918.1,
+    "Normal":3821.3171,
+    "Departure":28.7017,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1995,
+    "Actual":4044.7,
+    "Normal":3821.3171,
+    "Departure":5.8457,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1996,
+    "Actual":3624.1,
+    "Normal":3821.3171,
+    "Departure":-5.161,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1997,
+    "Actual":4612.1,
+    "Normal":3821.3171,
+    "Departure":20.694,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1998,
+    "Actual":4477.1,
+    "Normal":3821.3171,
+    "Departure":17.1612,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":1999,
+    "Actual":4302.7,
+    "Normal":3821.3171,
+    "Departure":12.5973,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2000,
+    "Actual":3627.3,
+    "Normal":3821.3171,
+    "Departure":-5.0772,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2001,
+    "Actual":4078.7,
+    "Normal":3821.3171,
+    "Departure":6.7354,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2002,
+    "Actual":3288.0,
+    "Normal":3821.3171,
+    "Departure":-13.9564,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2003,
+    "Actual":3554.3,
+    "Normal":3821.3171,
+    "Departure":-6.9876,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2004,
+    "Actual":3447.3,
+    "Normal":3821.3171,
+    "Departure":-9.7876,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2005,
+    "Actual":2544.6,
+    "Normal":3821.3171,
+    "Departure":-33.4104,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2006,
+    "Actual":4202.9,
+    "Normal":3821.3171,
+    "Departure":9.9856,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2007,
+    "Actual":4068.1,
+    "Normal":3821.3171,
+    "Departure":6.4581,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2008,
+    "Actual":3590.3,
+    "Normal":3821.3171,
+    "Departure":-6.0455,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2009,
+    "Actual":3848.8,
+    "Normal":3821.3171,
+    "Departure":0.7192,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2010,
+    "Actual":4807.9,
+    "Normal":3821.3171,
+    "Departure":25.8179,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2011,
+    "Actual":4144.8,
+    "Normal":3821.3171,
+    "Departure":8.4652,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2012,
+    "Actual":3255.7,
+    "Normal":3821.3171,
+    "Departure":-14.8016,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2013,
+    "Actual":4286.7,
+    "Normal":3821.3171,
+    "Departure":12.1786,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2014,
+    "Actual":3499.9,
+    "Normal":3821.3171,
+    "Departure":-8.4112,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Year":2015,
+    "Actual":3204.0,
+    "Normal":3821.3171,
+    "Departure":-16.1546,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":1981,
+    "Actual":559.5,
+    "Normal":588.08,
+    "Departure":-4.8599,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":1982,
+    "Actual":642.2,
+    "Normal":588.08,
+    "Departure":9.2028,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":1983,
+    "Actual":400.1,
+    "Normal":588.08,
+    "Departure":-31.965,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":1984,
+    "Actual":307.3,
+    "Normal":588.08,
+    "Departure":-47.7452,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":1985,
+    "Actual":282.2,
+    "Normal":588.08,
+    "Departure":-52.0133,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":1986,
+    "Actual":396.4,
+    "Normal":588.08,
+    "Departure":-32.5942,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":1987,
+    "Actual":765.4,
+    "Normal":588.08,
+    "Departure":30.1524,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":1988,
+    "Actual":661.1,
+    "Normal":588.08,
+    "Departure":12.4167,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":1989,
+    "Actual":351.3,
+    "Normal":588.08,
+    "Departure":-40.2632,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":1990,
+    "Actual":364.0,
+    "Normal":588.08,
+    "Departure":-38.1037,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":1991,
+    "Actual":606.8,
+    "Normal":588.08,
+    "Departure":3.1832,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":1992,
+    "Actual":525.9,
+    "Normal":588.08,
+    "Departure":-10.5734,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":1993,
+    "Actual":895.9,
+    "Normal":588.08,
+    "Departure":52.3432,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":1994,
+    "Actual":571.5,
+    "Normal":588.08,
+    "Departure":-2.8193,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":1995,
+    "Actual":309.1,
+    "Normal":588.08,
+    "Departure":-47.4391,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":1996,
+    "Actual":370.3,
+    "Normal":588.08,
+    "Departure":-37.0324,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":1997,
+    "Actual":655.6,
+    "Normal":588.08,
+    "Departure":11.4814,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":1998,
+    "Actual":680.1,
+    "Normal":588.08,
+    "Departure":15.6475,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":1999,
+    "Actual":697.4,
+    "Normal":588.08,
+    "Departure":18.5893,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":2000,
+    "Actual":752.5,
+    "Normal":588.08,
+    "Departure":27.9588,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":2001,
+    "Actual":429.7,
+    "Normal":588.08,
+    "Departure":-26.9317,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":2002,
+    "Actual":488.9,
+    "Normal":588.08,
+    "Departure":-16.8651,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":2003,
+    "Actual":489.0,
+    "Normal":588.08,
+    "Departure":-16.848,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":2004,
+    "Actual":581.9,
+    "Normal":588.08,
+    "Departure":-1.0509,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":2005,
+    "Actual":765.8,
+    "Normal":588.08,
+    "Departure":30.2204,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":2006,
+    "Actual":557.8,
+    "Normal":588.08,
+    "Departure":-5.149,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":2007,
+    "Actual":749.7,
+    "Normal":588.08,
+    "Departure":27.4827,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":2008,
+    "Actual":426.1,
+    "Normal":588.08,
+    "Departure":-27.5439,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":2009,
+    "Actual":825.8,
+    "Normal":588.08,
+    "Departure":40.4231,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":2010,
+    "Actual":1005.3,
+    "Normal":588.08,
+    "Departure":70.9461,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":2011,
+    "Actual":456.4,
+    "Normal":588.08,
+    "Departure":-22.3915,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":2012,
+    "Actual":591.8,
+    "Normal":588.08,
+    "Departure":0.6326,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Davangere",
+    "Year":2013,
+    "Actual":717.0,
+    "Normal":588.08,
+    "Departure":21.9222,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Davangere",
+    "Year":2014,
+    "Actual":982.2,
+    "Normal":588.08,
+    "Departure":67.0181,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Davangere",
+    "Year":2015,
+    "Actual":720.8,
+    "Normal":588.08,
+    "Departure":22.5684,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":1981,
+    "Actual":811.1,
+    "Normal":559.8314,
+    "Departure":44.8829,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":1982,
+    "Actual":598.9,
+    "Normal":559.8314,
+    "Departure":6.9786,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":1983,
+    "Actual":654.1,
+    "Normal":559.8314,
+    "Departure":16.8387,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":1984,
+    "Actual":428.5,
+    "Normal":559.8314,
+    "Departure":-23.4591,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":1985,
+    "Actual":358.3,
+    "Normal":559.8314,
+    "Departure":-35.9986,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":1986,
+    "Actual":591.6,
+    "Normal":559.8314,
+    "Departure":5.6747,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":1987,
+    "Actual":784.3,
+    "Normal":559.8314,
+    "Departure":40.0957,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":1988,
+    "Actual":476.9,
+    "Normal":559.8314,
+    "Departure":-14.8136,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":1989,
+    "Actual":462.3,
+    "Normal":559.8314,
+    "Departure":-17.4216,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":1990,
+    "Actual":541.9,
+    "Normal":559.8314,
+    "Departure":-3.203,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":1991,
+    "Actual":521.9,
+    "Normal":559.8314,
+    "Departure":-6.7755,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":1992,
+    "Actual":643.0,
+    "Normal":559.8314,
+    "Departure":14.856,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":1993,
+    "Actual":571.0,
+    "Normal":559.8314,
+    "Departure":1.995,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":1994,
+    "Actual":398.6,
+    "Normal":559.8314,
+    "Departure":-28.8,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":1995,
+    "Actual":441.9,
+    "Normal":559.8314,
+    "Departure":-21.0655,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":1996,
+    "Actual":774.1,
+    "Normal":559.8314,
+    "Departure":38.2738,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":1997,
+    "Actual":257.7,
+    "Normal":559.8314,
+    "Departure":-53.9683,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":1998,
+    "Actual":634.3,
+    "Normal":559.8314,
+    "Departure":13.302,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":1999,
+    "Actual":436.3,
+    "Normal":559.8314,
+    "Departure":-22.0658,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":2000,
+    "Actual":542.2,
+    "Normal":559.8314,
+    "Departure":-3.1494,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":2001,
+    "Actual":715.0,
+    "Normal":559.8314,
+    "Departure":27.717,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":2002,
+    "Actual":374.6,
+    "Normal":559.8314,
+    "Departure":-33.087,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":2003,
+    "Actual":290.3,
+    "Normal":559.8314,
+    "Departure":-48.1451,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":2004,
+    "Actual":608.3,
+    "Normal":559.8314,
+    "Departure":8.6577,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":2005,
+    "Actual":853.9,
+    "Normal":559.8314,
+    "Departure":52.5281,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":2006,
+    "Actual":380.0,
+    "Normal":559.8314,
+    "Departure":-32.1224,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":2007,
+    "Actual":713.2,
+    "Normal":559.8314,
+    "Departure":27.3955,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":2008,
+    "Actual":573.5,
+    "Normal":559.8314,
+    "Departure":2.4416,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":2009,
+    "Actual":699.6,
+    "Normal":559.8314,
+    "Departure":24.9662,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":2010,
+    "Actual":814.9,
+    "Normal":559.8314,
+    "Departure":45.5617,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":2011,
+    "Actual":434.5,
+    "Normal":559.8314,
+    "Departure":-22.3874,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":2012,
+    "Actual":488.0,
+    "Normal":559.8314,
+    "Departure":-12.8309,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Gadag",
+    "Year":2013,
+    "Actual":582.4,
+    "Normal":559.8314,
+    "Departure":4.0313,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Gadag",
+    "Year":2014,
+    "Actual":623.3,
+    "Normal":559.8314,
+    "Departure":11.3371,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Gadag",
+    "Year":2015,
+    "Actual":513.7,
+    "Normal":559.8314,
+    "Departure":-8.2402,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1981,
+    "Actual":818.8,
+    "Normal":637.5286,
+    "Departure":28.4335,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1982,
+    "Actual":763.3,
+    "Normal":637.5286,
+    "Departure":19.728,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1983,
+    "Actual":675.4,
+    "Normal":637.5286,
+    "Departure":5.9404,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1984,
+    "Actual":984.3,
+    "Normal":637.5286,
+    "Departure":54.3931,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1985,
+    "Actual":891.0,
+    "Normal":637.5286,
+    "Departure":39.7584,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1986,
+    "Actual":700.6,
+    "Normal":637.5286,
+    "Departure":9.8931,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1987,
+    "Actual":660.3,
+    "Normal":637.5286,
+    "Departure":3.5718,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1988,
+    "Actual":204.3,
+    "Normal":637.5286,
+    "Departure":-67.9544,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1989,
+    "Actual":295.5,
+    "Normal":637.5286,
+    "Departure":-53.6491,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1990,
+    "Actual":192.5,
+    "Normal":637.5286,
+    "Departure":-69.8053,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1991,
+    "Actual":705.4,
+    "Normal":637.5286,
+    "Departure":10.646,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1992,
+    "Actual":280.0,
+    "Normal":637.5286,
+    "Departure":-56.0804,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1993,
+    "Actual":294.7,
+    "Normal":637.5286,
+    "Departure":-53.7746,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1994,
+    "Actual":241.6,
+    "Normal":637.5286,
+    "Departure":-62.1037,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1995,
+    "Actual":302.4,
+    "Normal":637.5286,
+    "Departure":-52.5668,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1996,
+    "Actual":407.4,
+    "Normal":637.5286,
+    "Departure":-36.097,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1997,
+    "Actual":663.3,
+    "Normal":637.5286,
+    "Departure":4.0424,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1998,
+    "Actual":448.8,
+    "Normal":637.5286,
+    "Departure":-29.6032,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":1999,
+    "Actual":443.9,
+    "Normal":637.5286,
+    "Departure":-30.3717,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2000,
+    "Actual":437.3,
+    "Normal":637.5286,
+    "Departure":-31.407,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2001,
+    "Actual":216.4,
+    "Normal":637.5286,
+    "Departure":-66.0564,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2002,
+    "Actual":266.0,
+    "Normal":637.5286,
+    "Departure":-58.2764,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2003,
+    "Actual":283.0,
+    "Normal":637.5286,
+    "Departure":-55.6098,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2004,
+    "Actual":544.0,
+    "Normal":637.5286,
+    "Departure":-14.6705,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2005,
+    "Actual":3226.1,
+    "Normal":637.5286,
+    "Departure":406.0322,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2006,
+    "Actual":344.1,
+    "Normal":637.5286,
+    "Departure":-46.0259,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2007,
+    "Actual":530.8,
+    "Normal":637.5286,
+    "Departure":-16.741,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2008,
+    "Actual":483.4,
+    "Normal":637.5286,
+    "Departure":-24.1759,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2009,
+    "Actual":794.2,
+    "Normal":637.5286,
+    "Departure":24.5748,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2010,
+    "Actual":929.3,
+    "Normal":637.5286,
+    "Departure":45.766,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2011,
+    "Actual":976.7,
+    "Normal":637.5286,
+    "Departure":53.201,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2012,
+    "Actual":1093.9,
+    "Normal":637.5286,
+    "Departure":71.5845,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2013,
+    "Actual":686.6,
+    "Normal":637.5286,
+    "Departure":7.6971,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2014,
+    "Actual":897.0,
+    "Normal":637.5286,
+    "Departure":40.6996,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Dharwad",
+    "Year":2015,
+    "Actual":631.2,
+    "Normal":637.5286,
+    "Departure":-0.9927,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":1981,
+    "Actual":564.7,
+    "Normal":645.3143,
+    "Departure":-12.4923,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":1982,
+    "Actual":769.6,
+    "Normal":645.3143,
+    "Departure":19.2597,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":1983,
+    "Actual":493.1,
+    "Normal":645.3143,
+    "Departure":-23.5876,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":1984,
+    "Actual":506.4,
+    "Normal":645.3143,
+    "Departure":-21.5266,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":1985,
+    "Actual":297.2,
+    "Normal":645.3143,
+    "Departure":-53.9449,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":1986,
+    "Actual":575.4,
+    "Normal":645.3143,
+    "Departure":-10.8341,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":1987,
+    "Actual":718.9,
+    "Normal":645.3143,
+    "Departure":11.4031,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":1988,
+    "Actual":572.0,
+    "Normal":645.3143,
+    "Departure":-11.361,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":1989,
+    "Actual":456.5,
+    "Normal":645.3143,
+    "Departure":-29.2593,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":1990,
+    "Actual":356.5,
+    "Normal":645.3143,
+    "Departure":-44.7556,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":1991,
+    "Actual":680.9,
+    "Normal":645.3143,
+    "Departure":5.5145,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":1992,
+    "Actual":927.7,
+    "Normal":645.3143,
+    "Departure":43.7594,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":1993,
+    "Actual":799.7,
+    "Normal":645.3143,
+    "Departure":23.9241,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":1994,
+    "Actual":676.5,
+    "Normal":645.3143,
+    "Departure":4.8326,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":1995,
+    "Actual":494.6,
+    "Normal":645.3143,
+    "Departure":-23.3552,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":1996,
+    "Actual":731.8,
+    "Normal":645.3143,
+    "Departure":13.4021,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":1997,
+    "Actual":841.9,
+    "Normal":645.3143,
+    "Departure":30.4636,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":1998,
+    "Actual":573.9,
+    "Normal":645.3143,
+    "Departure":-11.0666,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":1999,
+    "Actual":582.0,
+    "Normal":645.3143,
+    "Departure":-9.8114,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":2000,
+    "Actual":692.4,
+    "Normal":645.3143,
+    "Departure":7.2966,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":2001,
+    "Actual":524.3,
+    "Normal":645.3143,
+    "Departure":-18.7528,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":2002,
+    "Actual":520.6,
+    "Normal":645.3143,
+    "Departure":-19.3261,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":2003,
+    "Actual":509.3,
+    "Normal":645.3143,
+    "Departure":-21.0772,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":2004,
+    "Actual":682.0,
+    "Normal":645.3143,
+    "Departure":5.6849,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":2005,
+    "Actual":898.1,
+    "Normal":645.3143,
+    "Departure":39.1725,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":2006,
+    "Actual":594.2,
+    "Normal":645.3143,
+    "Departure":-7.9208,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":2007,
+    "Actual":768.6,
+    "Normal":645.3143,
+    "Departure":19.1048,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":2008,
+    "Actual":726.5,
+    "Normal":645.3143,
+    "Departure":12.5808,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":2009,
+    "Actual":892.2,
+    "Normal":645.3143,
+    "Departure":38.2582,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":2010,
+    "Actual":929.7,
+    "Normal":645.3143,
+    "Departure":44.0693,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":2011,
+    "Actual":503.2,
+    "Normal":645.3143,
+    "Departure":-22.0225,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":2012,
+    "Actual":686.1,
+    "Normal":645.3143,
+    "Departure":6.3203,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Haveri",
+    "Year":2013,
+    "Actual":619.3,
+    "Normal":645.3143,
+    "Departure":-4.0313,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Haveri",
+    "Year":2014,
+    "Actual":939.1,
+    "Normal":645.3143,
+    "Departure":45.526,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Haveri",
+    "Year":2015,
+    "Actual":481.1,
+    "Normal":645.3143,
+    "Departure":-25.4472,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":1981,
+    "Actual":612.3,
+    "Normal":814.76,
+    "Departure":-24.849,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":1982,
+    "Actual":687.4,
+    "Normal":814.76,
+    "Departure":-15.6316,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":1983,
+    "Actual":668.7,
+    "Normal":814.76,
+    "Departure":-17.9268,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":1984,
+    "Actual":771.7,
+    "Normal":814.76,
+    "Departure":-5.285,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":1985,
+    "Actual":558.9,
+    "Normal":814.76,
+    "Departure":-31.4031,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":1986,
+    "Actual":941.8,
+    "Normal":814.76,
+    "Departure":15.5923,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":1987,
+    "Actual":756.1,
+    "Normal":814.76,
+    "Departure":-7.1997,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":1988,
+    "Actual":772.6,
+    "Normal":814.76,
+    "Departure":-5.1745,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":1989,
+    "Actual":916.0,
+    "Normal":814.76,
+    "Departure":12.4257,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":1990,
+    "Actual":484.5,
+    "Normal":814.76,
+    "Departure":-40.5346,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":1991,
+    "Actual":991.7,
+    "Normal":814.76,
+    "Departure":21.7168,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":1992,
+    "Actual":1044.8,
+    "Normal":814.76,
+    "Departure":28.2341,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":1993,
+    "Actual":820.6,
+    "Normal":814.76,
+    "Departure":0.7168,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":1994,
+    "Actual":824.5,
+    "Normal":814.76,
+    "Departure":1.1954,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":1995,
+    "Actual":834.1,
+    "Normal":814.76,
+    "Departure":2.3737,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":1996,
+    "Actual":246.9,
+    "Normal":814.76,
+    "Departure":-69.6966,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":1997,
+    "Actual":624.6,
+    "Normal":814.76,
+    "Departure":-23.3394,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":1998,
+    "Actual":853.1,
+    "Normal":814.76,
+    "Departure":4.7057,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":1999,
+    "Actual":1058.7,
+    "Normal":814.76,
+    "Departure":29.9401,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":2000,
+    "Actual":122.5,
+    "Normal":814.76,
+    "Departure":-84.9649,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":2001,
+    "Actual":129.8,
+    "Normal":814.76,
+    "Departure":-84.0689,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":2002,
+    "Actual":319.5,
+    "Normal":814.76,
+    "Departure":-60.786,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":2003,
+    "Actual":580.8,
+    "Normal":814.76,
+    "Departure":-28.7152,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":2004,
+    "Actual":944.7,
+    "Normal":814.76,
+    "Departure":15.9483,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":2005,
+    "Actual":818.3,
+    "Normal":814.76,
+    "Departure":0.4345,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":2006,
+    "Actual":1548.2,
+    "Normal":814.76,
+    "Departure":90.0191,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":2007,
+    "Actual":1151.5,
+    "Normal":814.76,
+    "Departure":41.33,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":2008,
+    "Actual":1125.8,
+    "Normal":814.76,
+    "Departure":38.1757,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":2009,
+    "Actual":1046.2,
+    "Normal":814.76,
+    "Departure":28.4059,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":2010,
+    "Actual":1604.5,
+    "Normal":814.76,
+    "Departure":96.9292,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":2011,
+    "Actual":995.5,
+    "Normal":814.76,
+    "Departure":22.1832,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":2012,
+    "Actual":517.8,
+    "Normal":814.76,
+    "Departure":-36.4475,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Hassan",
+    "Year":2013,
+    "Actual":1160.1,
+    "Normal":814.76,
+    "Departure":42.3855,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Hassan",
+    "Year":2014,
+    "Actual":1026.8,
+    "Normal":814.76,
+    "Departure":26.0248,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Hassan",
+    "Year":2015,
+    "Actual":955.6,
+    "Normal":814.76,
+    "Departure":17.2861,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1981,
+    "Actual":898.4,
+    "Normal":721.9286,
+    "Departure":24.4444,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1982,
+    "Actual":667.1,
+    "Normal":721.9286,
+    "Departure":-7.5947,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1983,
+    "Actual":972.8,
+    "Normal":721.9286,
+    "Departure":34.7502,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1984,
+    "Actual":853.1,
+    "Normal":721.9286,
+    "Departure":18.1696,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1985,
+    "Actual":621.0,
+    "Normal":721.9286,
+    "Departure":-13.9804,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1986,
+    "Actual":813.3,
+    "Normal":721.9286,
+    "Departure":12.6566,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1987,
+    "Actual":1075.2,
+    "Normal":721.9286,
+    "Departure":48.9344,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1988,
+    "Actual":973.1,
+    "Normal":721.9286,
+    "Departure":34.7917,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1989,
+    "Actual":862.6,
+    "Normal":721.9286,
+    "Departure":19.4855,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1990,
+    "Actual":842.5,
+    "Normal":721.9286,
+    "Departure":16.7013,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1991,
+    "Actual":495.4,
+    "Normal":721.9286,
+    "Departure":-31.3783,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1992,
+    "Actual":586.7,
+    "Normal":721.9286,
+    "Departure":-18.7316,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1993,
+    "Actual":619.5,
+    "Normal":721.9286,
+    "Departure":-14.1882,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1994,
+    "Actual":520.4,
+    "Normal":721.9286,
+    "Departure":-27.9153,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1995,
+    "Actual":657.6,
+    "Normal":721.9286,
+    "Departure":-8.9107,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1996,
+    "Actual":692.8,
+    "Normal":721.9286,
+    "Departure":-4.0348,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1997,
+    "Actual":429.3,
+    "Normal":721.9286,
+    "Departure":-40.5343,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1998,
+    "Actual":636.6,
+    "Normal":721.9286,
+    "Departure":-11.8195,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":1999,
+    "Actual":579.6,
+    "Normal":721.9286,
+    "Departure":-19.715,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2000,
+    "Actual":727.0,
+    "Normal":721.9286,
+    "Departure":0.7025,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2001,
+    "Actual":650.0,
+    "Normal":721.9286,
+    "Departure":-9.9634,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2002,
+    "Actual":573.8,
+    "Normal":721.9286,
+    "Departure":-20.5185,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2003,
+    "Actual":570.1,
+    "Normal":721.9286,
+    "Departure":-21.031,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2004,
+    "Actual":563.2,
+    "Normal":721.9286,
+    "Departure":-21.9867,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2005,
+    "Actual":1111.9,
+    "Normal":721.9286,
+    "Departure":54.018,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2006,
+    "Actual":193.4,
+    "Normal":721.9286,
+    "Departure":-73.2106,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2007,
+    "Actual":992.7,
+    "Normal":721.9286,
+    "Departure":37.5067,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2008,
+    "Actual":545.1,
+    "Normal":721.9286,
+    "Departure":-24.4939,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2009,
+    "Actual":816.5,
+    "Normal":721.9286,
+    "Departure":13.0998,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2010,
+    "Actual":1085.1,
+    "Normal":721.9286,
+    "Departure":50.3057,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2011,
+    "Actual":732.4,
+    "Normal":721.9286,
+    "Departure":1.4505,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2012,
+    "Actual":623.0,
+    "Normal":721.9286,
+    "Departure":-13.7034,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2013,
+    "Actual":827.0,
+    "Normal":721.9286,
+    "Departure":14.5543,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2014,
+    "Actual":747.5,
+    "Normal":721.9286,
+    "Departure":3.5421,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kalaburagi",
+    "Year":2015,
+    "Actual":711.8,
+    "Normal":721.9286,
+    "Departure":-1.403,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1981,
+    "Actual":1769.5,
+    "Normal":1339.7543,
+    "Departure":32.0765,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1982,
+    "Actual":808.0,
+    "Normal":1339.7543,
+    "Departure":-39.6904,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1983,
+    "Actual":1375.9,
+    "Normal":1339.7543,
+    "Departure":2.6979,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1984,
+    "Actual":2003.5,
+    "Normal":1339.7543,
+    "Departure":49.5423,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1985,
+    "Actual":1327.2,
+    "Normal":1339.7543,
+    "Departure":-0.9371,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1986,
+    "Actual":1677.4,
+    "Normal":1339.7543,
+    "Departure":25.2021,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1987,
+    "Actual":1076.1,
+    "Normal":1339.7543,
+    "Departure":-19.6793,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1988,
+    "Actual":923.4,
+    "Normal":1339.7543,
+    "Departure":-31.0769,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1989,
+    "Actual":1010.2,
+    "Normal":1339.7543,
+    "Departure":-24.5981,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1990,
+    "Actual":877.1,
+    "Normal":1339.7543,
+    "Departure":-34.5328,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1991,
+    "Actual":1142.0,
+    "Normal":1339.7543,
+    "Departure":-14.7605,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1992,
+    "Actual":1351.0,
+    "Normal":1339.7543,
+    "Departure":0.8394,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1993,
+    "Actual":865.3,
+    "Normal":1339.7543,
+    "Departure":-35.4135,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1994,
+    "Actual":1330.8,
+    "Normal":1339.7543,
+    "Departure":-0.6684,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1995,
+    "Actual":820.8,
+    "Normal":1339.7543,
+    "Departure":-38.735,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1996,
+    "Actual":1132.1,
+    "Normal":1339.7543,
+    "Departure":-15.4994,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1997,
+    "Actual":1256.1,
+    "Normal":1339.7543,
+    "Departure":-6.244,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1998,
+    "Actual":779.9,
+    "Normal":1339.7543,
+    "Departure":-41.7878,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":1999,
+    "Actual":1009.2,
+    "Normal":1339.7543,
+    "Departure":-24.6728,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2000,
+    "Actual":996.3,
+    "Normal":1339.7543,
+    "Departure":-25.6356,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2001,
+    "Actual":692.0,
+    "Normal":1339.7543,
+    "Departure":-48.3487,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2002,
+    "Actual":610.0,
+    "Normal":1339.7543,
+    "Departure":-54.4693,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2003,
+    "Actual":698.3,
+    "Normal":1339.7543,
+    "Departure":-47.8785,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2004,
+    "Actual":2039.3,
+    "Normal":1339.7543,
+    "Departure":52.2145,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2005,
+    "Actual":1828.1,
+    "Normal":1339.7543,
+    "Departure":36.4504,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2006,
+    "Actual":1012.2,
+    "Normal":1339.7543,
+    "Departure":-24.4488,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2007,
+    "Actual":2713.9,
+    "Normal":1339.7543,
+    "Departure":102.567,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2008,
+    "Actual":950.5,
+    "Normal":1339.7543,
+    "Departure":-29.0542,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2009,
+    "Actual":1058.1,
+    "Normal":1339.7543,
+    "Departure":-21.0228,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2010,
+    "Actual":1296.1,
+    "Normal":1339.7543,
+    "Departure":-3.2584,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2011,
+    "Actual":3196.6,
+    "Normal":1339.7543,
+    "Departure":138.596,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2012,
+    "Actual":2622.9,
+    "Normal":1339.7543,
+    "Departure":95.7747,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2013,
+    "Actual":1633.8,
+    "Normal":1339.7543,
+    "Departure":21.9477,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2014,
+    "Actual":1350.8,
+    "Normal":1339.7543,
+    "Departure":0.8245,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kodagu",
+    "Year":2015,
+    "Actual":1657.0,
+    "Normal":1339.7543,
+    "Departure":23.6794,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":1981,
+    "Actual":813.5,
+    "Normal":774.1686,
+    "Departure":5.0805,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":1982,
+    "Actual":535.4,
+    "Normal":774.1686,
+    "Departure":-30.8419,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":1983,
+    "Actual":651.8,
+    "Normal":774.1686,
+    "Departure":-15.8065,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":1984,
+    "Actual":579.4,
+    "Normal":774.1686,
+    "Departure":-25.1584,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":1985,
+    "Actual":577.7,
+    "Normal":774.1686,
+    "Departure":-25.378,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":1986,
+    "Actual":726.1,
+    "Normal":774.1686,
+    "Departure":-6.2091,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":1987,
+    "Actual":640.8,
+    "Normal":774.1686,
+    "Departure":-17.2273,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":1988,
+    "Actual":941.7,
+    "Normal":774.1686,
+    "Departure":21.6402,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":1989,
+    "Actual":727.7,
+    "Normal":774.1686,
+    "Departure":-6.0024,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":1990,
+    "Actual":718.0,
+    "Normal":774.1686,
+    "Departure":-7.2553,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":1991,
+    "Actual":1064.8,
+    "Normal":774.1686,
+    "Departure":37.5411,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":1992,
+    "Actual":696.0,
+    "Normal":774.1686,
+    "Departure":-10.0971,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":1993,
+    "Actual":1009.8,
+    "Normal":774.1686,
+    "Departure":30.4367,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":1994,
+    "Actual":592.2,
+    "Normal":774.1686,
+    "Departure":-23.505,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":1995,
+    "Actual":809.0,
+    "Normal":774.1686,
+    "Departure":4.4992,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":1996,
+    "Actual":901.8,
+    "Normal":774.1686,
+    "Departure":16.4863,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":1997,
+    "Actual":723.3,
+    "Normal":774.1686,
+    "Departure":-6.5707,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":1998,
+    "Actual":789.0,
+    "Normal":774.1686,
+    "Departure":1.9158,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":1999,
+    "Actual":737.3,
+    "Normal":774.1686,
+    "Departure":-4.7623,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":2000,
+    "Actual":869.2,
+    "Normal":774.1686,
+    "Departure":12.2753,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":2001,
+    "Actual":983.0,
+    "Normal":774.1686,
+    "Departure":26.9749,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":2002,
+    "Actual":592.8,
+    "Normal":774.1686,
+    "Departure":-23.4275,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":2003,
+    "Actual":575.6,
+    "Normal":774.1686,
+    "Departure":-25.6493,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":2004,
+    "Actual":811.9,
+    "Normal":774.1686,
+    "Departure":4.8738,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":2005,
+    "Actual":1292.4,
+    "Normal":774.1686,
+    "Departure":66.9404,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":2006,
+    "Actual":631.4,
+    "Normal":774.1686,
+    "Departure":-18.4415,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":2007,
+    "Actual":738.7,
+    "Normal":774.1686,
+    "Departure":-4.5815,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":2008,
+    "Actual":846.6,
+    "Normal":774.1686,
+    "Departure":9.356,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":2009,
+    "Actual":705.9,
+    "Normal":774.1686,
+    "Departure":-8.8183,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":2010,
+    "Actual":873.2,
+    "Normal":774.1686,
+    "Departure":12.792,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":2011,
+    "Actual":696.7,
+    "Normal":774.1686,
+    "Departure":-10.0067,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":2012,
+    "Actual":757.7,
+    "Normal":774.1686,
+    "Departure":-2.1273,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Kolar",
+    "Year":2013,
+    "Actual":618.2,
+    "Normal":774.1686,
+    "Departure":-20.1466,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Kolar",
+    "Year":2014,
+    "Actual":544.3,
+    "Normal":774.1686,
+    "Departure":-29.6923,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Kolar",
+    "Year":2015,
+    "Actual":1323.0,
+    "Normal":774.1686,
+    "Departure":70.893,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":1981,
+    "Actual":573.8,
+    "Normal":667.7371,
+    "Departure":-14.068,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":1982,
+    "Actual":730.6,
+    "Normal":667.7371,
+    "Departure":9.4143,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":1983,
+    "Actual":721.1,
+    "Normal":667.7371,
+    "Departure":7.9916,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":1984,
+    "Actual":581.4,
+    "Normal":667.7371,
+    "Departure":-12.9298,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":1985,
+    "Actual":529.6,
+    "Normal":667.7371,
+    "Departure":-20.6874,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":1986,
+    "Actual":690.7,
+    "Normal":667.7371,
+    "Departure":3.4389,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":1987,
+    "Actual":648.0,
+    "Normal":667.7371,
+    "Departure":-2.9558,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":1988,
+    "Actual":901.1,
+    "Normal":667.7371,
+    "Departure":34.9483,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":1989,
+    "Actual":523.8,
+    "Normal":667.7371,
+    "Departure":-21.556,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":1990,
+    "Actual":723.1,
+    "Normal":667.7371,
+    "Departure":8.2911,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":1991,
+    "Actual":667.5,
+    "Normal":667.7371,
+    "Departure":-0.0355,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":1992,
+    "Actual":951.4,
+    "Normal":667.7371,
+    "Departure":42.4812,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":1993,
+    "Actual":841.8,
+    "Normal":667.7371,
+    "Departure":26.0676,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":1994,
+    "Actual":451.7,
+    "Normal":667.7371,
+    "Departure":-32.3536,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":1995,
+    "Actual":553.5,
+    "Normal":667.7371,
+    "Departure":-17.1081,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":1996,
+    "Actual":1044.2,
+    "Normal":667.7371,
+    "Departure":56.3789,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":1997,
+    "Actual":517.3,
+    "Normal":667.7371,
+    "Departure":-22.5294,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":1998,
+    "Actual":799.9,
+    "Normal":667.7371,
+    "Departure":19.7926,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":1999,
+    "Actual":787.9,
+    "Normal":667.7371,
+    "Departure":17.9955,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":2000,
+    "Actual":644.9,
+    "Normal":667.7371,
+    "Departure":-3.4201,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":2001,
+    "Actual":688.6,
+    "Normal":667.7371,
+    "Departure":3.1244,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":2002,
+    "Actual":366.5,
+    "Normal":667.7371,
+    "Departure":-45.1131,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":2003,
+    "Actual":212.1,
+    "Normal":667.7371,
+    "Departure":-68.236,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":2004,
+    "Actual":371.6,
+    "Normal":667.7371,
+    "Departure":-44.3494,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":2005,
+    "Actual":868.9,
+    "Normal":667.7371,
+    "Departure":30.1261,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":2006,
+    "Actual":517.4,
+    "Normal":667.7371,
+    "Departure":-22.5144,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":2007,
+    "Actual":602.1,
+    "Normal":667.7371,
+    "Departure":-9.8298,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":2008,
+    "Actual":580.9,
+    "Normal":667.7371,
+    "Departure":-13.0047,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":2009,
+    "Actual":856.2,
+    "Normal":667.7371,
+    "Departure":28.2241,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":2010,
+    "Actual":1012.5,
+    "Normal":667.7371,
+    "Departure":51.6315,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":2011,
+    "Actual":549.6,
+    "Normal":667.7371,
+    "Departure":-17.6922,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":2012,
+    "Actual":502.2,
+    "Normal":667.7371,
+    "Departure":-24.7908,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Koppal",
+    "Year":2013,
+    "Actual":807.1,
+    "Normal":667.7371,
+    "Departure":20.8709,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Koppal",
+    "Year":2014,
+    "Actual":929.2,
+    "Normal":667.7371,
+    "Departure":39.1566,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Koppal",
+    "Year":2015,
+    "Actual":622.6,
+    "Normal":667.7371,
+    "Departure":-6.7597,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1981,
+    "Actual":858.0,
+    "Normal":755.4543,
+    "Departure":13.574,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1982,
+    "Actual":641.6,
+    "Normal":755.4543,
+    "Departure":-15.071,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1983,
+    "Actual":818.9,
+    "Normal":755.4543,
+    "Departure":8.3984,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1984,
+    "Actual":632.9,
+    "Normal":755.4543,
+    "Departure":-16.2226,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1985,
+    "Actual":629.1,
+    "Normal":755.4543,
+    "Departure":-16.7256,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1986,
+    "Actual":802.8,
+    "Normal":755.4543,
+    "Departure":6.2672,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1987,
+    "Actual":693.4,
+    "Normal":755.4543,
+    "Departure":-8.2142,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1988,
+    "Actual":726.5,
+    "Normal":755.4543,
+    "Departure":-3.8327,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1989,
+    "Actual":621.9,
+    "Normal":755.4543,
+    "Departure":-17.6787,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1990,
+    "Actual":423.9,
+    "Normal":755.4543,
+    "Departure":-43.8881,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1991,
+    "Actual":967.7,
+    "Normal":755.4543,
+    "Departure":28.0951,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1992,
+    "Actual":687.9,
+    "Normal":755.4543,
+    "Departure":-8.9422,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1993,
+    "Actual":1030.2,
+    "Normal":755.4543,
+    "Departure":36.3683,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1994,
+    "Actual":829.9,
+    "Normal":755.4543,
+    "Departure":9.8544,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1995,
+    "Actual":563.1,
+    "Normal":755.4543,
+    "Departure":-25.4621,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1996,
+    "Actual":783.4,
+    "Normal":755.4543,
+    "Departure":3.6992,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1997,
+    "Actual":951.2,
+    "Normal":755.4543,
+    "Departure":25.911,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1998,
+    "Actual":703.5,
+    "Normal":755.4543,
+    "Departure":-6.8772,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":1999,
+    "Actual":1209.9,
+    "Normal":755.4543,
+    "Departure":60.1553,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2000,
+    "Actual":932.6,
+    "Normal":755.4543,
+    "Departure":23.4489,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2001,
+    "Actual":597.6,
+    "Normal":755.4543,
+    "Departure":-20.8953,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2002,
+    "Actual":454.7,
+    "Normal":755.4543,
+    "Departure":-39.8111,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2003,
+    "Actual":547.1,
+    "Normal":755.4543,
+    "Departure":-27.58,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2004,
+    "Actual":766.0,
+    "Normal":755.4543,
+    "Departure":1.3959,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2005,
+    "Actual":1552.4,
+    "Normal":755.4543,
+    "Departure":105.4922,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2006,
+    "Actual":511.4,
+    "Normal":755.4543,
+    "Departure":-32.3056,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2007,
+    "Actual":624.9,
+    "Normal":755.4543,
+    "Departure":-17.2816,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2008,
+    "Actual":813.6,
+    "Normal":755.4543,
+    "Departure":7.6968,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2009,
+    "Actual":680.4,
+    "Normal":755.4543,
+    "Departure":-9.935,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2010,
+    "Actual":915.4,
+    "Normal":755.4543,
+    "Departure":21.1721,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2011,
+    "Actual":752.5,
+    "Normal":755.4543,
+    "Departure":-0.3911,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2012,
+    "Actual":303.6,
+    "Normal":755.4543,
+    "Departure":-59.8123,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2013,
+    "Actual":605.1,
+    "Normal":755.4543,
+    "Departure":-19.9025,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2014,
+    "Actual":841.2,
+    "Normal":755.4543,
+    "Departure":11.3502,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mysuru",
+    "Year":2015,
+    "Actual":966.6,
+    "Normal":755.4543,
+    "Departure":27.9495,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":1981,
+    "Actual":768.7,
+    "Normal":1143.8371,
+    "Departure":-32.7964,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":1982,
+    "Actual":1156.9,
+    "Normal":1143.8371,
+    "Departure":1.142,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":1983,
+    "Actual":1287.3,
+    "Normal":1143.8371,
+    "Departure":12.5422,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":1984,
+    "Actual":809.1,
+    "Normal":1143.8371,
+    "Departure":-29.2644,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":1985,
+    "Actual":687.7,
+    "Normal":1143.8371,
+    "Departure":-39.8778,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":1986,
+    "Actual":890.1,
+    "Normal":1143.8371,
+    "Departure":-22.183,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":1987,
+    "Actual":1100.4,
+    "Normal":1143.8371,
+    "Departure":-3.7975,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":1988,
+    "Actual":1320.5,
+    "Normal":1143.8371,
+    "Departure":15.4448,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":1989,
+    "Actual":1228.7,
+    "Normal":1143.8371,
+    "Departure":7.4191,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":1990,
+    "Actual":1053.6,
+    "Normal":1143.8371,
+    "Departure":-7.889,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":1991,
+    "Actual":1624.0,
+    "Normal":1143.8371,
+    "Departure":41.9783,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":1992,
+    "Actual":988.2,
+    "Normal":1143.8371,
+    "Departure":-13.6066,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":1993,
+    "Actual":710.0,
+    "Normal":1143.8371,
+    "Departure":-37.9282,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":1994,
+    "Actual":2746.4,
+    "Normal":1143.8371,
+    "Departure":140.1041,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":1995,
+    "Actual":1553.2,
+    "Normal":1143.8371,
+    "Departure":35.7886,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":1996,
+    "Actual":1047.0,
+    "Normal":1143.8371,
+    "Departure":-8.466,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":1997,
+    "Actual":1647.6,
+    "Normal":1143.8371,
+    "Departure":44.0415,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":1998,
+    "Actual":1473.5,
+    "Normal":1143.8371,
+    "Departure":28.8208,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":1999,
+    "Actual":1627.6,
+    "Normal":1143.8371,
+    "Departure":42.293,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":2000,
+    "Actual":1253.0,
+    "Normal":1143.8371,
+    "Departure":9.5436,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":2001,
+    "Actual":939.7,
+    "Normal":1143.8371,
+    "Departure":-17.8467,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":2002,
+    "Actual":793.7,
+    "Normal":1143.8371,
+    "Departure":-30.6108,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":2003,
+    "Actual":863.4,
+    "Normal":1143.8371,
+    "Departure":-24.5172,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":2004,
+    "Actual":1327.0,
+    "Normal":1143.8371,
+    "Departure":16.013,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":2005,
+    "Actual":1333.9,
+    "Normal":1143.8371,
+    "Departure":16.6163,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":2006,
+    "Actual":588.5,
+    "Normal":1143.8371,
+    "Departure":-48.5504,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":2007,
+    "Actual":1614.5,
+    "Normal":1143.8371,
+    "Departure":41.1477,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":2008,
+    "Actual":1618.5,
+    "Normal":1143.8371,
+    "Departure":41.4974,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":2009,
+    "Actual":1430.7,
+    "Normal":1143.8371,
+    "Departure":25.079,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":2010,
+    "Actual":710.9,
+    "Normal":1143.8371,
+    "Departure":-37.8495,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":2011,
+    "Actual":845.2,
+    "Normal":1143.8371,
+    "Departure":-26.1084,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":2012,
+    "Actual":542.2,
+    "Normal":1143.8371,
+    "Departure":-52.5981,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Mandya",
+    "Year":2013,
+    "Actual":768.8,
+    "Normal":1143.8371,
+    "Departure":-32.7876,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Mandya",
+    "Year":2014,
+    "Actual":675.5,
+    "Normal":1143.8371,
+    "Departure":-40.9444,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Mandya",
+    "Year":2015,
+    "Actual":1008.3,
+    "Normal":1143.8371,
+    "Departure":-11.8493,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1981,
+    "Actual":976.9,
+    "Normal":825.9914,
+    "Departure":18.27,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1982,
+    "Actual":557.6,
+    "Normal":825.9914,
+    "Departure":-32.4932,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1983,
+    "Actual":856.7,
+    "Normal":825.9914,
+    "Departure":3.7178,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1984,
+    "Actual":874.1,
+    "Normal":825.9914,
+    "Departure":5.8243,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1985,
+    "Actual":609.7,
+    "Normal":825.9914,
+    "Departure":-26.1857,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1986,
+    "Actual":898.9,
+    "Normal":825.9914,
+    "Departure":8.8268,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1987,
+    "Actual":738.4,
+    "Normal":825.9914,
+    "Departure":-10.6044,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1988,
+    "Actual":1171.0,
+    "Normal":825.9914,
+    "Departure":41.769,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1989,
+    "Actual":428.7,
+    "Normal":825.9914,
+    "Departure":-48.0987,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1990,
+    "Actual":383.6,
+    "Normal":825.9914,
+    "Departure":-53.5588,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1991,
+    "Actual":880.4,
+    "Normal":825.9914,
+    "Departure":6.5871,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1992,
+    "Actual":1052.0,
+    "Normal":825.9914,
+    "Departure":27.3621,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1993,
+    "Actual":875.4,
+    "Normal":825.9914,
+    "Departure":5.9817,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1994,
+    "Actual":560.8,
+    "Normal":825.9914,
+    "Departure":-32.1058,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1995,
+    "Actual":716.5,
+    "Normal":825.9914,
+    "Departure":-13.2558,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1996,
+    "Actual":848.1,
+    "Normal":825.9914,
+    "Departure":2.6766,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1997,
+    "Actual":763.2,
+    "Normal":825.9914,
+    "Departure":-7.6019,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1998,
+    "Actual":765.1,
+    "Normal":825.9914,
+    "Departure":-7.3719,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":1999,
+    "Actual":956.3,
+    "Normal":825.9914,
+    "Departure":15.776,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2000,
+    "Actual":989.9,
+    "Normal":825.9914,
+    "Departure":19.8439,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2001,
+    "Actual":753.9,
+    "Normal":825.9914,
+    "Departure":-8.7279,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2002,
+    "Actual":488.4,
+    "Normal":825.9914,
+    "Departure":-40.8711,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2003,
+    "Actual":645.8,
+    "Normal":825.9914,
+    "Departure":-21.8152,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2004,
+    "Actual":1077.2,
+    "Normal":825.9914,
+    "Departure":30.413,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2005,
+    "Actual":863.2,
+    "Normal":825.9914,
+    "Departure":4.5047,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2006,
+    "Actual":813.8,
+    "Normal":825.9914,
+    "Departure":-1.476,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2007,
+    "Actual":956.7,
+    "Normal":825.9914,
+    "Departure":15.8244,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2008,
+    "Actual":981.7,
+    "Normal":825.9914,
+    "Departure":18.8511,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2009,
+    "Actual":802.9,
+    "Normal":825.9914,
+    "Departure":-2.7956,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2010,
+    "Actual":922.5,
+    "Normal":825.9914,
+    "Departure":11.684,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2011,
+    "Actual":985.7,
+    "Normal":825.9914,
+    "Departure":19.3354,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2012,
+    "Actual":592.5,
+    "Normal":825.9914,
+    "Departure":-28.268,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2013,
+    "Actual":952.1,
+    "Normal":825.9914,
+    "Departure":15.2675,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2014,
+    "Actual":942.0,
+    "Normal":825.9914,
+    "Departure":14.0448,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Tumakuru",
+    "Year":2015,
+    "Actual":1228.0,
+    "Normal":825.9914,
+    "Departure":48.6698,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":1981,
+    "Actual":696.0,
+    "Normal":636.5171,
+    "Departure":9.3451,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":1982,
+    "Actual":741.0,
+    "Normal":636.5171,
+    "Departure":16.4148,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":1983,
+    "Actual":745.6,
+    "Normal":636.5171,
+    "Departure":17.1375,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":1984,
+    "Actual":459.5,
+    "Normal":636.5171,
+    "Departure":-27.8103,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":1985,
+    "Actual":613.1,
+    "Normal":636.5171,
+    "Departure":-3.6789,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":1986,
+    "Actual":558.9,
+    "Normal":636.5171,
+    "Departure":-12.194,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":1987,
+    "Actual":706.1,
+    "Normal":636.5171,
+    "Departure":10.9318,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":1988,
+    "Actual":678.8,
+    "Normal":636.5171,
+    "Departure":6.6428,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":1989,
+    "Actual":549.4,
+    "Normal":636.5171,
+    "Departure":-13.6865,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":1990,
+    "Actual":744.9,
+    "Normal":636.5171,
+    "Departure":17.0275,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":1991,
+    "Actual":445.4,
+    "Normal":636.5171,
+    "Departure":-30.0255,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":1992,
+    "Actual":711.5,
+    "Normal":636.5171,
+    "Departure":11.7802,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":1993,
+    "Actual":824.4,
+    "Normal":636.5171,
+    "Departure":29.5173,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":1994,
+    "Actual":444.5,
+    "Normal":636.5171,
+    "Departure":-30.1668,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":1995,
+    "Actual":829.0,
+    "Normal":636.5171,
+    "Departure":30.24,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":1996,
+    "Actual":823.5,
+    "Normal":636.5171,
+    "Departure":29.3759,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":1997,
+    "Actual":348.3,
+    "Normal":636.5171,
+    "Departure":-45.2803,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":1998,
+    "Actual":863.5,
+    "Normal":636.5171,
+    "Departure":35.6601,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":1999,
+    "Actual":592.1,
+    "Normal":636.5171,
+    "Departure":-6.9782,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":2000,
+    "Actual":767.9,
+    "Normal":636.5171,
+    "Departure":20.6409,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":2001,
+    "Actual":622.7,
+    "Normal":636.5171,
+    "Departure":-2.1707,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":2002,
+    "Actual":375.8,
+    "Normal":636.5171,
+    "Departure":-40.96,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":2003,
+    "Actual":529.7,
+    "Normal":636.5171,
+    "Departure":-16.7815,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":2004,
+    "Actual":553.7,
+    "Normal":636.5171,
+    "Departure":-13.011,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":2005,
+    "Actual":834.0,
+    "Normal":636.5171,
+    "Departure":31.0255,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":2006,
+    "Actual":373.4,
+    "Normal":636.5171,
+    "Departure":-41.337,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":2007,
+    "Actual":804.7,
+    "Normal":636.5171,
+    "Departure":26.4224,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":2008,
+    "Actual":546.0,
+    "Normal":636.5171,
+    "Departure":-14.2207,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":2009,
+    "Actual":703.7,
+    "Normal":636.5171,
+    "Departure":10.5548,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":2010,
+    "Actual":726.4,
+    "Normal":636.5171,
+    "Departure":14.121,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":2011,
+    "Actual":461.6,
+    "Normal":636.5171,
+    "Departure":-27.4804,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":2012,
+    "Actual":484.0,
+    "Normal":636.5171,
+    "Departure":-23.9612,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Raichur",
+    "Year":2013,
+    "Actual":742.0,
+    "Normal":636.5171,
+    "Departure":16.5719,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Raichur",
+    "Year":2014,
+    "Actual":761.3,
+    "Normal":636.5171,
+    "Departure":19.604,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Raichur",
+    "Year":2015,
+    "Actual":615.7,
+    "Normal":636.5171,
+    "Departure":-3.2705,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1981,
+    "Actual":822.1,
+    "Normal":804.6343,
+    "Departure":2.1706,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1982,
+    "Actual":642.1,
+    "Normal":804.6343,
+    "Departure":-20.1998,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1983,
+    "Actual":668.3,
+    "Normal":804.6343,
+    "Departure":-16.9436,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1984,
+    "Actual":581.4,
+    "Normal":804.6343,
+    "Departure":-27.7436,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1985,
+    "Actual":331.0,
+    "Normal":804.6343,
+    "Departure":-58.8633,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1986,
+    "Actual":538.6,
+    "Normal":804.6343,
+    "Departure":-33.0628,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1987,
+    "Actual":758.9,
+    "Normal":804.6343,
+    "Departure":-5.6839,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1988,
+    "Actual":736.0,
+    "Normal":804.6343,
+    "Departure":-8.5299,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1989,
+    "Actual":688.5,
+    "Normal":804.6343,
+    "Departure":-14.4332,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1990,
+    "Actual":486.7,
+    "Normal":804.6343,
+    "Departure":-39.5129,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1991,
+    "Actual":884.4,
+    "Normal":804.6343,
+    "Departure":9.9133,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1992,
+    "Actual":933.0,
+    "Normal":804.6343,
+    "Departure":15.9533,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1993,
+    "Actual":844.2,
+    "Normal":804.6343,
+    "Departure":4.9172,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1994,
+    "Actual":563.1,
+    "Normal":804.6343,
+    "Departure":-30.0179,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1995,
+    "Actual":393.1,
+    "Normal":804.6343,
+    "Departure":-51.1455,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1996,
+    "Actual":200.9,
+    "Normal":804.6343,
+    "Departure":-75.0321,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1997,
+    "Actual":245.3,
+    "Normal":804.6343,
+    "Departure":-69.5141,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1998,
+    "Actual":593.6,
+    "Normal":804.6343,
+    "Departure":-26.2274,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":1999,
+    "Actual":659.6,
+    "Normal":804.6343,
+    "Departure":-18.0249,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2000,
+    "Actual":853.6,
+    "Normal":804.6343,
+    "Departure":6.0855,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2001,
+    "Actual":418.7,
+    "Normal":804.6343,
+    "Departure":-47.9639,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2002,
+    "Actual":473.2,
+    "Normal":804.6343,
+    "Departure":-41.1907,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2003,
+    "Actual":518.9,
+    "Normal":804.6343,
+    "Departure":-35.5111,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2004,
+    "Actual":749.6,
+    "Normal":804.6343,
+    "Departure":-6.8397,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2005,
+    "Actual":1996.8,
+    "Normal":804.6343,
+    "Departure":148.1624,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2006,
+    "Actual":717.4,
+    "Normal":804.6343,
+    "Departure":-10.8415,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2007,
+    "Actual":1028.6,
+    "Normal":804.6343,
+    "Departure":27.8345,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2008,
+    "Actual":755.4,
+    "Normal":804.6343,
+    "Departure":-6.1188,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2009,
+    "Actual":1059.3,
+    "Normal":804.6343,
+    "Departure":31.6499,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2010,
+    "Actual":1097.9,
+    "Normal":804.6343,
+    "Departure":36.4471,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2011,
+    "Actual":1969.6,
+    "Normal":804.6343,
+    "Departure":144.782,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2012,
+    "Actual":2219.3,
+    "Normal":804.6343,
+    "Departure":175.8147,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2013,
+    "Actual":787.4,
+    "Normal":804.6343,
+    "Departure":-2.1419,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2014,
+    "Actual":989.0,
+    "Normal":804.6343,
+    "Departure":22.913,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Shivamogga",
+    "Year":2015,
+    "Actual":956.7,
+    "Normal":804.6343,
+    "Departure":18.8987,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":1981,
+    "Actual":3525.0,
+    "Normal":4295.62,
+    "Departure":-17.9397,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":1982,
+    "Actual":3602.7,
+    "Normal":4295.62,
+    "Departure":-16.1308,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":1983,
+    "Actual":3402.2,
+    "Normal":4295.62,
+    "Departure":-20.7984,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":1984,
+    "Actual":3095.3,
+    "Normal":4295.62,
+    "Departure":-27.9429,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":1985,
+    "Actual":2627.9,
+    "Normal":4295.62,
+    "Departure":-38.8237,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":1986,
+    "Actual":2992.3,
+    "Normal":4295.62,
+    "Departure":-30.3407,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":1987,
+    "Actual":2438.2,
+    "Normal":4295.62,
+    "Departure":-43.2399,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":1988,
+    "Actual":4242.8,
+    "Normal":4295.62,
+    "Departure":-1.2296,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":1989,
+    "Actual":4560.3,
+    "Normal":4295.62,
+    "Departure":6.1616,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":1990,
+    "Actual":5255.6,
+    "Normal":4295.62,
+    "Departure":22.3479,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":1991,
+    "Actual":4540.4,
+    "Normal":4295.62,
+    "Departure":5.6984,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":1992,
+    "Actual":5082.1,
+    "Normal":4295.62,
+    "Departure":18.3089,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":1993,
+    "Actual":4249.0,
+    "Normal":4295.62,
+    "Departure":-1.0853,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":1994,
+    "Actual":6533.9,
+    "Normal":4295.62,
+    "Departure":52.1061,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":1995,
+    "Actual":4808.1,
+    "Normal":4295.62,
+    "Departure":11.9303,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":1996,
+    "Actual":4344.8,
+    "Normal":4295.62,
+    "Departure":1.1449,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":1997,
+    "Actual":5238.3,
+    "Normal":4295.62,
+    "Departure":21.9451,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":1998,
+    "Actual":5441.1,
+    "Normal":4295.62,
+    "Departure":26.6662,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":1999,
+    "Actual":5194.8,
+    "Normal":4295.62,
+    "Departure":20.9325,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":2000,
+    "Actual":4243.1,
+    "Normal":4295.62,
+    "Departure":-1.2226,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":2001,
+    "Actual":4477.6,
+    "Normal":4295.62,
+    "Departure":4.2364,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":2002,
+    "Actual":3441.3,
+    "Normal":4295.62,
+    "Departure":-19.8882,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":2003,
+    "Actual":4186.9,
+    "Normal":4295.62,
+    "Departure":-2.531,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":2004,
+    "Actual":4268.4,
+    "Normal":4295.62,
+    "Departure":-0.6337,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":2005,
+    "Actual":3339.0,
+    "Normal":4295.62,
+    "Departure":-22.2697,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":2006,
+    "Actual":5091.5,
+    "Normal":4295.62,
+    "Departure":18.5277,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":2007,
+    "Actual":5054.2,
+    "Normal":4295.62,
+    "Departure":17.6594,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":2008,
+    "Actual":3264.5,
+    "Normal":4295.62,
+    "Departure":-24.004,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":2009,
+    "Actual":5306.2,
+    "Normal":4295.62,
+    "Departure":23.5258,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":2010,
+    "Actual":4770.0,
+    "Normal":4295.62,
+    "Departure":11.0433,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":2011,
+    "Actual":5406.2,
+    "Normal":4295.62,
+    "Departure":25.8538,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":2012,
+    "Actual":4332.7,
+    "Normal":4295.62,
+    "Departure":0.8632,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Udupi",
+    "Year":2013,
+    "Actual":4421.0,
+    "Normal":4295.62,
+    "Departure":2.9188,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Udupi",
+    "Year":2014,
+    "Actual":3853.5,
+    "Normal":4295.62,
+    "Departure":-10.2923,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Udupi",
+    "Year":2015,
+    "Actual":3715.8,
+    "Normal":4295.62,
+    "Departure":-13.4979,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1981,
+    "Actual":801.6,
+    "Normal":545.4457,
+    "Departure":46.9624,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1982,
+    "Actual":508.7,
+    "Normal":545.4457,
+    "Departure":-6.7368,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1983,
+    "Actual":584.1,
+    "Normal":545.4457,
+    "Departure":7.0867,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1984,
+    "Actual":513.7,
+    "Normal":545.4457,
+    "Departure":-5.8201,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1985,
+    "Actual":439.5,
+    "Normal":545.4457,
+    "Departure":-19.4237,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1986,
+    "Actual":584.6,
+    "Normal":545.4457,
+    "Departure":7.1784,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1987,
+    "Actual":676.7,
+    "Normal":545.4457,
+    "Departure":24.0637,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1988,
+    "Actual":773.6,
+    "Normal":545.4457,
+    "Departure":41.829,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1989,
+    "Actual":655.4,
+    "Normal":545.4457,
+    "Departure":20.1586,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1990,
+    "Actual":555.6,
+    "Normal":545.4457,
+    "Departure":1.8616,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1991,
+    "Actual":342.7,
+    "Normal":545.4457,
+    "Departure":-37.1706,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1992,
+    "Actual":265.3,
+    "Normal":545.4457,
+    "Departure":-51.3609,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1993,
+    "Actual":458.0,
+    "Normal":545.4457,
+    "Departure":-16.032,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1994,
+    "Actual":349.4,
+    "Normal":545.4457,
+    "Departure":-35.9423,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1995,
+    "Actual":511.4,
+    "Normal":545.4457,
+    "Departure":-6.2418,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1996,
+    "Actual":539.4,
+    "Normal":545.4457,
+    "Departure":-1.1084,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1997,
+    "Actual":301.0,
+    "Normal":545.4457,
+    "Departure":-44.8158,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1998,
+    "Actual":672.2,
+    "Normal":545.4457,
+    "Departure":23.2387,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":1999,
+    "Actual":490.5,
+    "Normal":545.4457,
+    "Departure":-10.0735,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2000,
+    "Actual":343.0,
+    "Normal":545.4457,
+    "Departure":-37.1156,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2001,
+    "Actual":574.2,
+    "Normal":545.4457,
+    "Departure":5.2717,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2002,
+    "Actual":414.8,
+    "Normal":545.4457,
+    "Departure":-23.9521,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2003,
+    "Actual":358.9,
+    "Normal":545.4457,
+    "Departure":-34.2006,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2004,
+    "Actual":514.7,
+    "Normal":545.4457,
+    "Departure":-5.6368,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2005,
+    "Actual":773.3,
+    "Normal":545.4457,
+    "Departure":41.774,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2006,
+    "Actual":635.2,
+    "Normal":545.4457,
+    "Departure":16.4552,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2007,
+    "Actual":487.2,
+    "Normal":545.4457,
+    "Departure":-10.6786,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2008,
+    "Actual":489.0,
+    "Normal":545.4457,
+    "Departure":-10.3485,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2009,
+    "Actual":936.4,
+    "Normal":545.4457,
+    "Departure":71.6761,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2010,
+    "Actual":746.9,
+    "Normal":545.4457,
+    "Departure":36.9339,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2011,
+    "Actual":567.0,
+    "Normal":545.4457,
+    "Departure":3.9517,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2012,
+    "Actual":458.7,
+    "Normal":545.4457,
+    "Departure":-15.9036,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2013,
+    "Actual":588.5,
+    "Normal":545.4457,
+    "Departure":7.8934,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2014,
+    "Actual":614.0,
+    "Normal":545.4457,
+    "Departure":12.5685,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Vijayapura",
+    "Year":2015,
+    "Actual":565.4,
+    "Normal":545.4457,
+    "Departure":3.6583,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1981,
+    "Actual":3752.6,
+    "Normal":3561.4943,
+    "Departure":5.3659,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1982,
+    "Actual":4060.5,
+    "Normal":3561.4943,
+    "Departure":14.0111,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1983,
+    "Actual":4521.5,
+    "Normal":3561.4943,
+    "Departure":26.9551,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1984,
+    "Actual":3886.0,
+    "Normal":3561.4943,
+    "Departure":9.1115,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1985,
+    "Actual":3284.5,
+    "Normal":3561.4943,
+    "Departure":-7.7775,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1986,
+    "Actual":2503.3,
+    "Normal":3561.4943,
+    "Departure":-29.7121,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1987,
+    "Actual":3600.1,
+    "Normal":3561.4943,
+    "Departure":1.084,
+    "ENSO_Phase":"El Ni\u00f1o - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1988,
+    "Actual":4682.5,
+    "Normal":3561.4943,
+    "Departure":31.4757,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1989,
+    "Actual":2884.8,
+    "Normal":3561.4943,
+    "Departure":-19.0003,
+    "ENSO_Phase":"La Ni\u00f1a - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1990,
+    "Actual":4184.7,
+    "Normal":3561.4943,
+    "Departure":17.4984,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1991,
+    "Actual":3311.7,
+    "Normal":3561.4943,
+    "Departure":-7.0137,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1992,
+    "Actual":3640.2,
+    "Normal":3561.4943,
+    "Departure":2.2099,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1993,
+    "Actual":3081.2,
+    "Normal":3561.4943,
+    "Departure":-13.4858,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1994,
+    "Actual":3613.0,
+    "Normal":3561.4943,
+    "Departure":1.4462,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1995,
+    "Actual":3554.3,
+    "Normal":3561.4943,
+    "Departure":-0.202,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1996,
+    "Actual":3189.7,
+    "Normal":3561.4943,
+    "Departure":-10.4393,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1997,
+    "Actual":3472.0,
+    "Normal":3561.4943,
+    "Departure":-2.5128,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1998,
+    "Actual":3329.9,
+    "Normal":3561.4943,
+    "Departure":-6.5027,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":1999,
+    "Actual":3921.4,
+    "Normal":3561.4943,
+    "Departure":10.1055,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2000,
+    "Actual":3743.5,
+    "Normal":3561.4943,
+    "Departure":5.1104,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2001,
+    "Actual":2733.3,
+    "Normal":3561.4943,
+    "Departure":-23.2541,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2002,
+    "Actual":2848.4,
+    "Normal":3561.4943,
+    "Departure":-20.0223,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2003,
+    "Actual":3844.9,
+    "Normal":3561.4943,
+    "Departure":7.9575,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2004,
+    "Actual":2859.2,
+    "Normal":3561.4943,
+    "Departure":-19.7191,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2005,
+    "Actual":3486.0,
+    "Normal":3561.4943,
+    "Departure":-2.1197,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2006,
+    "Actual":3531.2,
+    "Normal":3561.4943,
+    "Departure":-0.8506,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2007,
+    "Actual":3899.2,
+    "Normal":3561.4943,
+    "Departure":9.4821,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2008,
+    "Actual":3177.3,
+    "Normal":3561.4943,
+    "Departure":-10.7874,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2009,
+    "Actual":3618.8,
+    "Normal":3561.4943,
+    "Departure":1.609,
+    "ENSO_Phase":"Neutral - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2010,
+    "Actual":4655.7,
+    "Normal":3561.4943,
+    "Departure":30.7232,
+    "ENSO_Phase":"El Ni\u00f1o - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2011,
+    "Actual":3864.3,
+    "Normal":3561.4943,
+    "Departure":8.5022,
+    "ENSO_Phase":"La Ni\u00f1a - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2012,
+    "Actual":3086.8,
+    "Normal":3561.4943,
+    "Departure":-13.3285,
+    "ENSO_Phase":"La Ni\u00f1a - Neutral"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2013,
+    "Actual":4222.8,
+    "Normal":3561.4943,
+    "Departure":18.5682,
+    "ENSO_Phase":"Neutral - Positive"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2014,
+    "Actual":3903.8,
+    "Normal":3561.4943,
+    "Departure":9.6113,
+    "ENSO_Phase":"Neutral - Negative"
+  },
+  {
+    "District":"Uttara Kannada",
+    "Year":2015,
+    "Actual":2703.2,
+    "Normal":3561.4943,
+    "Departure":-24.0993,
+    "ENSO_Phase":"El Ni\u00f1o - Neutral"
+  },
+  {
+    "District":"State",
+    "Year":1981,
+    "Actual":1187.95,
+    "Normal":1134.5569,
+    "Departure":8.8997,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1982,
+    "Actual":1086.9269,
+    "Normal":1134.5569,
+    "Departure":-3.0727,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1983,
+    "Actual":1190.2577,
+    "Normal":1134.5569,
+    "Departure":5.9755,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1984,
+    "Actual":1016.1923,
+    "Normal":1134.5569,
+    "Departure":-11.25,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1985,
+    "Actual":888.8731,
+    "Normal":1134.5569,
+    "Departure":-23.4048,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1986,
+    "Actual":1013.15,
+    "Normal":1134.5569,
+    "Departure":-5.3981,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1987,
+    "Actual":1034.4308,
+    "Normal":1134.5569,
+    "Departure":1.3551,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1988,
+    "Actual":1192.7423,
+    "Normal":1134.5569,
+    "Departure":4.3602,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1989,
+    "Actual":1048.9462,
+    "Normal":1134.5569,
+    "Departure":-10.0823,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1990,
+    "Actual":1087.9846,
+    "Normal":1134.5569,
+    "Departure":-13.3372,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1991,
+    "Actual":1225.4115,
+    "Normal":1134.5569,
+    "Departure":7.732,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1992,
+    "Actual":1185.4077,
+    "Normal":1134.5569,
+    "Departure":1.2847,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1993,
+    "Actual":1111.45,
+    "Normal":1134.5569,
+    "Departure":-1.001,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1994,
+    "Actual":1206.1038,
+    "Normal":1134.5569,
+    "Departure":-8.6858,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1995,
+    "Actual":1059.6385,
+    "Normal":1134.5569,
+    "Departure":-14.2037,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1996,
+    "Actual":1050.3769,
+    "Normal":1134.5569,
+    "Departure":-8.8781,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1997,
+    "Actual":1109.9269,
+    "Normal":1134.5569,
+    "Departure":-11.3051,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1998,
+    "Actual":1192.5423,
+    "Normal":1134.5569,
+    "Departure":3.2529,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":1999,
+    "Actual":1203.5462,
+    "Normal":1134.5569,
+    "Departure":1.1186,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2000,
+    "Actual":1102.2923,
+    "Normal":1134.5569,
+    "Departure":-3.7657,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2001,
+    "Actual":966.1577,
+    "Normal":1134.5569,
+    "Departure":-18.7211,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2002,
+    "Actual":801.8038,
+    "Normal":1134.5569,
+    "Departure":-33.2026,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2003,
+    "Actual":921.0962,
+    "Normal":1134.5569,
+    "Departure":-28.1483,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2004,
+    "Actual":1123.4,
+    "Normal":1134.5569,
+    "Departure":0.4847,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2005,
+    "Actual":1602.1962,
+    "Normal":1134.5569,
+    "Departure":71.4182,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2006,
+    "Actual":1045.5154,
+    "Normal":1134.5569,
+    "Departure":-15.75,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2007,
+    "Actual":1338.1,
+    "Normal":1134.5569,
+    "Departure":18.0715,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2008,
+    "Actual":1091.5154,
+    "Normal":1134.5569,
+    "Departure":0.9501,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2009,
+    "Actual":1281.3038,
+    "Normal":1134.5569,
+    "Departure":19.1759,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2010,
+    "Actual":1385.2115,
+    "Normal":1134.5569,
+    "Departure":26.958,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2011,
+    "Actual":1326.5231,
+    "Normal":1134.5569,
+    "Departure":13.9659,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2012,
+    "Actual":1134.8423,
+    "Normal":1134.5569,
+    "Departure":2.4628,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2013,
+    "Actual":1217.8731,
+    "Normal":1134.5569,
+    "Departure":6.8247,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2014,
+    "Actual":1166.2,
+    "Normal":1134.5569,
+    "Departure":10.246,
+    "ENSO_Phase":null
+  },
+  {
+    "District":"State",
+    "Year":2015,
+    "Actual":1113.6038,
+    "Normal":1134.5569,
+    "Departure":5.6698,
+    "ENSO_Phase":null
+  }
+]

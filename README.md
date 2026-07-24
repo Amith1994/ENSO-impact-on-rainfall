@@ -2,8 +2,8 @@
 
 > **An interactive climatological explorer for analyzing El Niño–Southern Oscillation (ENSO) and Indian Ocean Dipole (IOD) impacts across Karnataka's districts (1951–2020) alongside a Real-Time Climate Events Timeline for the current year.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20App-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github)](https://amith1994.github.io/enso-iod-karnataka-rainfall/)
-[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Amith1994/enso-iod-karnataka-rainfall)
+[![Live Demo](https://img.shields.io/badge/Live%20App-GitHub%20Pages-brightgreen?style=for-the-badge&logo=github)](https://amith1994.github.io/ENSO-impact-on-rainfall/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Amith1994/ENSO-impact-on-rainfall)
 
 ---
 
@@ -77,8 +77,8 @@ A modern web browser (Chrome, Firefox, Edge, Safari). No backend or database ins
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Amith1994/enso-iod-karnataka-rainfall.git
-   cd enso-iod-karnataka-rainfall
+   git clone https://github.com/Amith1994/ENSO-impact-on-rainfall.git
+   cd ENSO-impact-on-rainfall
    ```
 
 2. **Serve the Application**:
@@ -99,7 +99,7 @@ A modern web browser (Chrome, Firefox, Edge, Safari). No backend or database ins
 ## 📁 Repository File Structure
 
 ```
-enso-iod-karnataka-rainfall/
+ENSO-impact-on-rainfall/
 ├── index.html                  # Main application HTML structure
 ├── style.css                   # Custom Vanilla CSS design system
 ├── app.js                      # Main logic engine, map renderer & dynamic summaries
@@ -116,4 +116,4 @@ enso-iod-karnataka-rainfall/
 
 **Amith Naik (Amith1994)**
 - GitHub: [@Amith1994](https://github.com/Amith1994)
-- Live Dashboard: [amith1994.github.io/enso-iod-karnataka-rainfall](https://amith1994.github.io/enso-iod-karnataka-rainfall/)
+- Live Dashboard: [amith1994.github.io/ENSO-impact-on-rainfall](https://amith1994.github.io/ENSO-impact-on-rainfall/)

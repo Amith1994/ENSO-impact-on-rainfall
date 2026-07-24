@@ -1,0 +1,650 @@
+[
+  {
+    "District":"Bengaluru Urban",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.6461,
+    "ANOVA_p":0.6927,
+    "KW_H":4.5991,
+    "KW_p":0.5962
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.008,
+    "ANOVA_p":0.4415,
+    "KW_H":8.342,
+    "KW_p":0.2141
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Variable":"Annual",
+    "ANOVA_F":0.4129,
+    "ANOVA_p":0.8637,
+    "KW_H":4.3805,
+    "KW_p":0.6253
+  },
+  {
+    "District":"Ballari",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.5102,
+    "ANOVA_p":0.795,
+    "KW_H":6.854,
+    "KW_p":0.3346
+  },
+  {
+    "District":"Ballari",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.2111,
+    "ANOVA_p":0.3322,
+    "KW_H":5.4936,
+    "KW_p":0.4822
+  },
+  {
+    "District":"Ballari",
+    "Variable":"Annual",
+    "ANOVA_F":0.4785,
+    "ANOVA_p":0.8181,
+    "KW_H":7.3881,
+    "KW_p":0.2864
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":1.2336,
+    "ANOVA_p":0.3216,
+    "KW_H":6.9195,
+    "KW_p":0.3284
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.188,
+    "ANOVA_p":0.9775,
+    "KW_H":1.133,
+    "KW_p":0.9801
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Variable":"Annual",
+    "ANOVA_F":0.725,
+    "ANOVA_p":0.6334,
+    "KW_H":4.9118,
+    "KW_p":0.5552
+  },
+  {
+    "District":"Belagavi",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.2032,
+    "ANOVA_p":0.9727,
+    "KW_H":1.7308,
+    "KW_p":0.9427
+  },
+  {
+    "District":"Belagavi",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.5671,
+    "ANOVA_p":0.7525,
+    "KW_H":3.1804,
+    "KW_p":0.7859
+  },
+  {
+    "District":"Belagavi",
+    "Variable":"Annual",
+    "ANOVA_F":0.2913,
+    "ANOVA_p":0.9356,
+    "KW_H":1.875,
+    "KW_p":0.9308
+  },
+  {
+    "District":"Chamarajanagar",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.7468,
+    "ANOVA_p":0.6174,
+    "KW_H":3.9736,
+    "KW_p":0.6802
+  },
+  {
+    "District":"Chamarajanagar",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.2896,
+    "ANOVA_p":0.9365,
+    "KW_H":1.8941,
+    "KW_p":0.9292
+  },
+  {
+    "District":"Chamarajanagar",
+    "Variable":"Annual",
+    "ANOVA_F":0.4287,
+    "ANOVA_p":0.853,
+    "KW_H":3.0137,
+    "KW_p":0.8071
+  },
+  {
+    "District":"Bidar",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.794,
+    "ANOVA_p":0.5831,
+    "KW_H":4.2085,
+    "KW_p":0.6485
+  },
+  {
+    "District":"Bidar",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.4685,
+    "ANOVA_p":0.2278,
+    "KW_H":9.2025,
+    "KW_p":0.1625
+  },
+  {
+    "District":"Bidar",
+    "Variable":"Annual",
+    "ANOVA_F":0.6849,
+    "ANOVA_p":0.6634,
+    "KW_H":3.5532,
+    "KW_p":0.7369
+  },
+  {
+    "District":"Chitradurga",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.3898,
+    "ANOVA_p":0.8788,
+    "KW_H":3.1968,
+    "KW_p":0.7838
+  },
+  {
+    "District":"Chitradurga",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.3608,
+    "ANOVA_p":0.2672,
+    "KW_H":8.3496,
+    "KW_p":0.2136
+  },
+  {
+    "District":"Chitradurga",
+    "Variable":"Annual",
+    "ANOVA_F":0.2246,
+    "ANOVA_p":0.9651,
+    "KW_H":2.0031,
+    "KW_p":0.9194
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":2.3977,
+    "ANOVA_p":0.056,
+    "KW_H":10.5024,
+    "KW_p":0.105
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.037,
+    "ANOVA_p":0.4243,
+    "KW_H":7.0636,
+    "KW_p":0.315
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Variable":"Annual",
+    "ANOVA_F":1.6948,
+    "ANOVA_p":0.1622,
+    "KW_H":9.4316,
+    "KW_p":0.1507
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":2.0674,
+    "ANOVA_p":0.0922,
+    "KW_H":12.1184,
+    "KW_p":0.0594
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.6544,
+    "ANOVA_p":0.6864,
+    "KW_H":4.5837,
+    "KW_p":0.5982
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Variable":"Annual",
+    "ANOVA_F":2.3621,
+    "ANOVA_p":0.0591,
+    "KW_H":11.0832,
+    "KW_p":0.0858
+  },
+  {
+    "District":"Davangere",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.6999,
+    "ANOVA_p":0.6522,
+    "KW_H":4.9206,
+    "KW_p":0.554
+  },
+  {
+    "District":"Davangere",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.8346,
+    "ANOVA_p":0.5543,
+    "KW_H":7.5133,
+    "KW_p":0.276
+  },
+  {
+    "District":"Davangere",
+    "Variable":"Annual",
+    "ANOVA_F":0.1794,
+    "ANOVA_p":0.98,
+    "KW_H":1.7713,
+    "KW_p":0.9395
+  },
+  {
+    "District":"Gadag",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":1.8127,
+    "ANOVA_p":0.1357,
+    "KW_H":10.0706,
+    "KW_p":0.1217
+  },
+  {
+    "District":"Gadag",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.9069,
+    "ANOVA_p":0.5053,
+    "KW_H":7.4869,
+    "KW_p":0.2781
+  },
+  {
+    "District":"Gadag",
+    "Variable":"Annual",
+    "ANOVA_F":2.1395,
+    "ANOVA_p":0.0827,
+    "KW_H":11.3886,
+    "KW_p":0.0771
+  },
+  {
+    "District":"Dharwad",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.486,
+    "ANOVA_p":0.8126,
+    "KW_H":3.0731,
+    "KW_p":0.7996
+  },
+  {
+    "District":"Dharwad",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.8142,
+    "ANOVA_p":0.5687,
+    "KW_H":5.2356,
+    "KW_p":0.514
+  },
+  {
+    "District":"Dharwad",
+    "Variable":"Annual",
+    "ANOVA_F":0.4454,
+    "ANOVA_p":0.8415,
+    "KW_H":3.2676,
+    "KW_p":0.7746
+  },
+  {
+    "District":"Haveri",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.6243,
+    "ANOVA_p":0.7092,
+    "KW_H":3.8248,
+    "KW_p":0.7004
+  },
+  {
+    "District":"Haveri",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.7385,
+    "ANOVA_p":0.6235,
+    "KW_H":6.7775,
+    "KW_p":0.3419
+  },
+  {
+    "District":"Haveri",
+    "Variable":"Annual",
+    "ANOVA_F":0.4977,
+    "ANOVA_p":0.8042,
+    "KW_H":4.2085,
+    "KW_p":0.6485
+  },
+  {
+    "District":"Hassan",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":1.7792,
+    "ANOVA_p":0.1427,
+    "KW_H":11.597,
+    "KW_p":0.0716
+  },
+  {
+    "District":"Hassan",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.4287,
+    "ANOVA_p":0.2417,
+    "KW_H":7.47,
+    "KW_p":0.2796
+  },
+  {
+    "District":"Hassan",
+    "Variable":"Annual",
+    "ANOVA_F":2.1328,
+    "ANOVA_p":0.0835,
+    "KW_H":12.5141,
+    "KW_p":0.0514
+  },
+  {
+    "District":"Kalaburagi",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":2.1625,
+    "ANOVA_p":0.0799,
+    "KW_H":10.3689,
+    "KW_p":0.11
+  },
+  {
+    "District":"Kalaburagi",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.7626,
+    "ANOVA_p":0.1464,
+    "KW_H":9.5095,
+    "KW_p":0.1469
+  },
+  {
+    "District":"Kalaburagi",
+    "Variable":"Annual",
+    "ANOVA_F":1.9459,
+    "ANOVA_p":0.1109,
+    "KW_H":9.2357,
+    "KW_p":0.1607
+  },
+  {
+    "District":"Kodagu",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.7861,
+    "ANOVA_p":0.5887,
+    "KW_H":2.3353,
+    "KW_p":0.8864
+  },
+  {
+    "District":"Kodagu",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.0814,
+    "ANOVA_p":0.3991,
+    "KW_H":8.3256,
+    "KW_p":0.2152
+  },
+  {
+    "District":"Kodagu",
+    "Variable":"Annual",
+    "ANOVA_F":0.6043,
+    "ANOVA_p":0.7244,
+    "KW_H":1.9819,
+    "KW_p":0.9214
+  },
+  {
+    "District":"Kolar",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":1.3931,
+    "ANOVA_p":0.2547,
+    "KW_H":6.4959,
+    "KW_p":0.37
+  },
+  {
+    "District":"Kolar",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.1069,
+    "ANOVA_p":0.9949,
+    "KW_H":1.604,
+    "KW_p":0.9523
+  },
+  {
+    "District":"Kolar",
+    "Variable":"Annual",
+    "ANOVA_F":0.624,
+    "ANOVA_p":0.7094,
+    "KW_H":3.7771,
+    "KW_p":0.7068
+  },
+  {
+    "District":"Koppal",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.9161,
+    "ANOVA_p":0.4992,
+    "KW_H":7.8097,
+    "KW_p":0.2524
+  },
+  {
+    "District":"Koppal",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.0549,
+    "ANOVA_p":0.414,
+    "KW_H":6.3149,
+    "KW_p":0.3889
+  },
+  {
+    "District":"Koppal",
+    "Variable":"Annual",
+    "ANOVA_F":0.7533,
+    "ANOVA_p":0.6125,
+    "KW_H":4.9759,
+    "KW_p":0.5469
+  },
+  {
+    "District":"Mysuru",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.6382,
+    "ANOVA_p":0.6987,
+    "KW_H":4.0244,
+    "KW_p":0.6734
+  },
+  {
+    "District":"Mysuru",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.4726,
+    "ANOVA_p":0.8223,
+    "KW_H":3.0823,
+    "KW_p":0.7984
+  },
+  {
+    "District":"Mysuru",
+    "Variable":"Annual",
+    "ANOVA_F":0.4911,
+    "ANOVA_p":0.809,
+    "KW_H":2.457,
+    "KW_p":0.8733
+  },
+  {
+    "District":"Mandya",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":1.1493,
+    "ANOVA_p":0.3628,
+    "KW_H":5.8011,
+    "KW_p":0.4458
+  },
+  {
+    "District":"Mandya",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.3587,
+    "ANOVA_p":0.8982,
+    "KW_H":3.2895,
+    "KW_p":0.7717
+  },
+  {
+    "District":"Mandya",
+    "Variable":"Annual",
+    "ANOVA_F":1.2546,
+    "ANOVA_p":0.312,
+    "KW_H":6.8916,
+    "KW_p":0.331
+  },
+  {
+    "District":"Tumakuru",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":1.809,
+    "ANOVA_p":0.1364,
+    "KW_H":11.4002,
+    "KW_p":0.0768
+  },
+  {
+    "District":"Tumakuru",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.5646,
+    "ANOVA_p":0.7544,
+    "KW_H":3.5281,
+    "KW_p":0.7402
+  },
+  {
+    "District":"Tumakuru",
+    "Variable":"Annual",
+    "ANOVA_F":1.6447,
+    "ANOVA_p":0.1749,
+    "KW_H":9.749,
+    "KW_p":0.1356
+  },
+  {
+    "District":"Raichur",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":3.1374,
+    "ANOVA_p":0.0189,
+    "KW_H":13.0141,
+    "KW_p":0.0428
+  },
+  {
+    "District":"Raichur",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.3648,
+    "ANOVA_p":0.2656,
+    "KW_H":8.7504,
+    "KW_p":0.1881
+  },
+  {
+    "District":"Raichur",
+    "Variable":"Annual",
+    "ANOVA_F":2.4851,
+    "ANOVA_p":0.0492,
+    "KW_H":13.1207,
+    "KW_p":0.0412
+  },
+  {
+    "District":"Shivamogga",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":1.6921,
+    "ANOVA_p":0.1628,
+    "KW_H":3.9763,
+    "KW_p":0.6799
+  },
+  {
+    "District":"Shivamogga",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.1913,
+    "ANOVA_p":0.3417,
+    "KW_H":6.9654,
+    "KW_p":0.3241
+  },
+  {
+    "District":"Shivamogga",
+    "Variable":"Annual",
+    "ANOVA_F":1.4587,
+    "ANOVA_p":0.2311,
+    "KW_H":4.9797,
+    "KW_p":0.5464
+  },
+  {
+    "District":"Udupi",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.9889,
+    "ANOVA_p":0.4531,
+    "KW_H":7.2932,
+    "KW_p":0.2946
+  },
+  {
+    "District":"Udupi",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.5964,
+    "ANOVA_p":0.7304,
+    "KW_H":2.5153,
+    "KW_p":0.8667
+  },
+  {
+    "District":"Udupi",
+    "Variable":"Annual",
+    "ANOVA_F":0.9667,
+    "ANOVA_p":0.4668,
+    "KW_H":6.744,
+    "KW_p":0.3452
+  },
+  {
+    "District":"Vijayapura",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.8653,
+    "ANOVA_p":0.5331,
+    "KW_H":5.7378,
+    "KW_p":0.4532
+  },
+  {
+    "District":"Vijayapura",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.25,
+    "ANOVA_p":0.9549,
+    "KW_H":1.8065,
+    "KW_p":0.9366
+  },
+  {
+    "District":"Vijayapura",
+    "Variable":"Annual",
+    "ANOVA_F":0.4524,
+    "ANOVA_p":0.8366,
+    "KW_H":5.174,
+    "KW_p":0.5217
+  },
+  {
+    "District":"Uttara Kannada",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":1.1125,
+    "ANOVA_p":0.3821,
+    "KW_H":6.0376,
+    "KW_p":0.419
+  },
+  {
+    "District":"Uttara Kannada",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":1.4359,
+    "ANOVA_p":0.2391,
+    "KW_H":9.4333,
+    "KW_p":0.1506
+  },
+  {
+    "District":"Uttara Kannada",
+    "Variable":"Annual",
+    "ANOVA_F":1.0748,
+    "ANOVA_p":0.4028,
+    "KW_H":4.8418,
+    "KW_p":0.5643
+  },
+  {
+    "District":"State",
+    "Variable":"SW Monsoon",
+    "ANOVA_F":0.671,
+    "ANOVA_p":0.6738,
+    "KW_H":5.2685,
+    "KW_p":0.5099
+  },
+  {
+    "District":"State",
+    "Variable":"NE Monsoon",
+    "ANOVA_F":0.7368,
+    "ANOVA_p":0.6247,
+    "KW_H":4.2228,
+    "KW_p":0.6466
+  },
+  {
+    "District":"State",
+    "Variable":"Annual",
+    "ANOVA_F":0.6024,
+    "ANOVA_p":0.7259,
+    "KW_H":4.635,
+    "KW_p":0.5914
+  }
+]

@@ -1,0 +1,3647 @@
+[
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.5509,
+    "sens_slope":2.3611,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.7764,
+    "sens_slope":1.18,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.8647,
+    "sens_slope":0.18,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.5347,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 2",
+    "trend":"increasing",
+    "p_value":0.0499,
+    "sens_slope":0.0,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.2315,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.426,
+    "sens_slope":0.18,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.3941,
+    "sens_slope":0.62,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.2805,
+    "sens_slope":-0.8929,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.6191,
+    "sens_slope":-0.3444,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.1556,
+    "sens_slope":1.1833,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.7764,
+    "sens_slope":0.6333,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.3065,
+    "sens_slope":1.1583,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.5128,
+    "sens_slope":-0.0467,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Urban",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.8343,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.5894,
+    "sens_slope":1.6667,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.7547,
+    "sens_slope":0.7852,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.8647,
+    "sens_slope":0.375,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.5143,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.332,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.1061,
+    "sens_slope":0.0238,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.1359,
+    "sens_slope":0.5667,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.7982,
+    "sens_slope":-0.1864,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":-0.0182,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.8871,
+    "sens_slope":0.1308,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.8092,
+    "sens_slope":0.4312,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.712,
+    "sens_slope":-0.3379,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.41,
+    "sens_slope":0.1462,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Ballari",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.4595,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.3202,
+    "sens_slope":5.5556,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.7764,
+    "sens_slope":0.7944,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.0608,
+    "sens_slope":2.4143,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.9119,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.3659,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.7863,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 4",
+    "trend":"increasing",
+    "p_value":0.0038,
+    "sens_slope":1.4917,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.4432,
+    "sens_slope":0.6143,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.4954,
+    "sens_slope":0.56,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.5136,
+    "sens_slope":0.5263,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.1819,
+    "sens_slope":1.3087,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.2933,
+    "sens_slope":-2.0083,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.3942,
+    "sens_slope":0.6529,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.0966,
+    "sens_slope":1.09,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bengaluru Rural",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.8534,
+    "sens_slope":-0.0091,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.57,
+    "sens_slope":-2.95,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.3559,
+    "sens_slope":-3.4812,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.6092,
+    "sens_slope":0.776,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.2788,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.4715,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.4347,
+    "sens_slope":0.2533,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.6701,
+    "sens_slope":-0.2647,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.8424,
+    "sens_slope":-0.5,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 7",
+    "trend":"decreasing",
+    "p_value":0.0267,
+    "sens_slope":-4.06,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.8424,
+    "sens_slope":0.3933,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.2559,
+    "sens_slope":1.6545,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.4432,
+    "sens_slope":0.9581,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.8756,
+    "sens_slope":0.0043,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Belagavi",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.8722,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Annual",
+    "trend":"decreasing",
+    "p_value":0.0064,
+    "sens_slope":-14.328,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"SW Monsoon",
+    "trend":"decreasing",
+    "p_value":0.0029,
+    "sens_slope":-13.4857,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.7982,
+    "sens_slope":-0.5759,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.9845,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.6737,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.5026,
+    "sens_slope":-0.0583,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.2998,
+    "sens_slope":0.8154,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.5796,
+    "sens_slope":-0.72,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.2329,
+    "sens_slope":-1.7556,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 7",
+    "trend":"decreasing",
+    "p_value":0.0029,
+    "sens_slope":-3.4688,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.3202,
+    "sens_slope":-1.3571,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 9",
+    "trend":"decreasing",
+    "p_value":0.0008,
+    "sens_slope":-4.15,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.5414,
+    "sens_slope":-0.9828,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.6092,
+    "sens_slope":0.3,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chamarajanagar",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.5457,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.2805,
+    "sens_slope":-4.7263,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.2442,
+    "sens_slope":-3.6538,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.222,
+    "sens_slope":-1.8167,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.0891,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.2864,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.0588,
+    "sens_slope":0.3931,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.6804,
+    "sens_slope":0.088,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.966,
+    "sens_slope":-0.0579,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.4101,
+    "sens_slope":-1.1238,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.5321,
+    "sens_slope":-1.0312,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.8871,
+    "sens_slope":0.2846,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.3634,
+    "sens_slope":-1.1091,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.8966,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Bidar",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.1222,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Annual",
+    "trend":"increasing",
+    "p_value":0.0309,
+    "sens_slope":6.4265,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.5136,
+    "sens_slope":1.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.4265,
+    "sens_slope":1.12,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.8862,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.1176,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.0942,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.0993,
+    "sens_slope":0.5944,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.057,
+    "sens_slope":1.4455,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":-0.0111,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.712,
+    "sens_slope":0.2444,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 8",
+    "trend":"increasing",
+    "p_value":0.017,
+    "sens_slope":2.2385,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.5894,
+    "sens_slope":-0.805,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.5136,
+    "sens_slope":0.6478,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.1585,
+    "sens_slope":0.405,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chitradurga",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.2766,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Annual",
+    "trend":"increasing",
+    "p_value":0.0049,
+    "sens_slope":12.3667,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"SW Monsoon",
+    "trend":"increasing",
+    "p_value":0.0059,
+    "sens_slope":7.6667,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.5509,
+    "sens_slope":1.3895,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.1145,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.3711,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.1526,
+    "sens_slope":0.075,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.4777,
+    "sens_slope":0.5083,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.2933,
+    "sens_slope":1.15,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.4265,
+    "sens_slope":0.7259,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.0649,
+    "sens_slope":2.3,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 8",
+    "trend":"increasing",
+    "p_value":0.0356,
+    "sens_slope":2.1276,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.4432,
+    "sens_slope":0.875,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.9095,
+    "sens_slope":0.38,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.41,
+    "sens_slope":0.4824,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Chikkamagaluru",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.8266,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.9321,
+    "sens_slope":1.3818,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.4602,
+    "sens_slope":-6.971,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.3202,
+    "sens_slope":2.3167,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.4018,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.1621,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.131,
+    "sens_slope":0.0562,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.3065,
+    "sens_slope":0.55,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.1819,
+    "sens_slope":2.5724,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.1183,
+    "sens_slope":-6.3,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.7763,
+    "sens_slope":2.1385,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.1251,
+    "sens_slope":-5.5941,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.0938,
+    "sens_slope":5.2708,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.4101,
+    "sens_slope":1.05,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.2933,
+    "sens_slope":0.9765,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dakshina Kannada",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.5663,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Annual",
+    "trend":"increasing",
+    "p_value":0.0064,
+    "sens_slope":9.0,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Davangere",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.1728,
+    "sens_slope":2.5,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.2012,
+    "sens_slope":1.7947,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.313,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.1353,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 3",
+    "trend":"increasing",
+    "p_value":0.0286,
+    "sens_slope":0.0,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 4",
+    "trend":"increasing",
+    "p_value":0.0422,
+    "sens_slope":0.6875,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.0965,
+    "sens_slope":1.3625,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.4954,
+    "sens_slope":0.4667,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.0649,
+    "sens_slope":1.024,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.0938,
+    "sens_slope":1.38,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.8871,
+    "sens_slope":-0.2444,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.4265,
+    "sens_slope":0.9,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.0967,
+    "sens_slope":0.3438,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Davangere",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.2337,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.9773,
+    "sens_slope":0.131,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.7332,
+    "sens_slope":-0.8667,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.3786,
+    "sens_slope":-0.75,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.8022,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.1457,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 3",
+    "trend":"increasing",
+    "p_value":0.035,
+    "sens_slope":0.0,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.5586,
+    "sens_slope":0.0882,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.2012,
+    "sens_slope":0.6188,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.6701,
+    "sens_slope":-0.4,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.712,
+    "sens_slope":0.25,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.9321,
+    "sens_slope":-0.225,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.9095,
+    "sens_slope":0.1043,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.5981,
+    "sens_slope":0.025,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Gadag",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.7876,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.3202,
+    "sens_slope":6.0864,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.7982,
+    "sens_slope":1.3824,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.1819,
+    "sens_slope":1.4937,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.423,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 2",
+    "trend":"increasing",
+    "p_value":0.0179,
+    "sens_slope":0.0,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.056,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.2699,
+    "sens_slope":0.1,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.5604,
+    "sens_slope":0.4111,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.8424,
+    "sens_slope":-0.3833,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.6804,
+    "sens_slope":-0.5233,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.8871,
+    "sens_slope":-0.2111,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.3486,
+    "sens_slope":1.0455,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.3485,
+    "sens_slope":1.0929,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.3352,
+    "sens_slope":0.1,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Dharwad",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.3496,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.0782,
+    "sens_slope":4.9308,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.2559,
+    "sens_slope":1.98,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.8647,
+    "sens_slope":-0.2786,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.4729,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 2",
+    "trend":"increasing",
+    "p_value":0.0499,
+    "sens_slope":0.0,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.2554,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.1023,
+    "sens_slope":0.73,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.6292,
+    "sens_slope":0.5857,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.3065,
+    "sens_slope":0.7133,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.2998,
+    "sens_slope":0.85,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.3942,
+    "sens_slope":0.6,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.5509,
+    "sens_slope":0.5538,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.9887,
+    "sens_slope":-0.0111,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.6384,
+    "sens_slope":0.0833,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Haveri",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.3854,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Annual",
+    "trend":"increasing",
+    "p_value":0.0106,
+    "sens_slope":10.6062,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Hassan",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.1183,
+    "sens_slope":4.9895,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.9095,
+    "sens_slope":0.1846,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.9349,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.5869,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.0591,
+    "sens_slope":0.05,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 4",
+    "trend":"increasing",
+    "p_value":0.0086,
+    "sens_slope":1.8333,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.1322,
+    "sens_slope":1.1158,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.8871,
+    "sens_slope":0.22,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.3133,
+    "sens_slope":2.0519,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.2805,
+    "sens_slope":1.02,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.4689,
+    "sens_slope":0.9941,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.9547,
+    "sens_slope":0.1286,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.327,
+    "sens_slope":0.4833,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Hassan",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.3102,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.3786,
+    "sens_slope":-3.236,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.6292,
+    "sens_slope":-1.9222,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.0782,
+    "sens_slope":-1.85,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.8795,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.0689,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.3232,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 4",
+    "trend":"increasing",
+    "p_value":0.023,
+    "sens_slope":0.5586,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.7331,
+    "sens_slope":-0.13,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.8983,
+    "sens_slope":0.1308,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.9321,
+    "sens_slope":-0.0737,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.4954,
+    "sens_slope":0.9419,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.4432,
+    "sens_slope":-1.625,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.2329,
+    "sens_slope":-1.1933,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.943,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kalaburagi",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.7883,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.5136,
+    "sens_slope":6.4143,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.4777,
+    "sens_slope":4.0462,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0583,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.9852,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.198,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.3309,
+    "sens_slope":0.0862,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.6292,
+    "sens_slope":0.2714,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.57,
+    "sens_slope":-0.685,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.3486,
+    "sens_slope":1.9,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.1556,
+    "sens_slope":3.92,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.5509,
+    "sens_slope":-1.5667,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.2329,
+    "sens_slope":1.6038,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.3065,
+    "sens_slope":-1.2345,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.222,
+    "sens_slope":1.0552,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kodagu",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.6216,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.3634,
+    "sens_slope":2.2933,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.6495,
+    "sens_slope":-1.1792,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.0832,
+    "sens_slope":2.7031,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.8156,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.9345,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.6216,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.3486,
+    "sens_slope":0.35,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.0713,
+    "sens_slope":1.3273,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.2012,
+    "sens_slope":1.0357,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.9547,
+    "sens_slope":-0.0417,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.4954,
+    "sens_slope":0.76,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 9",
+    "trend":"decreasing",
+    "p_value":0.0115,
+    "sens_slope":-2.9263,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.1322,
+    "sens_slope":1.5235,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.5604,
+    "sens_slope":0.44,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Kolar",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.8089,
+    "sens_slope":0.0182,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.9321,
+    "sens_slope":-0.2437,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.7547,
+    "sens_slope":-0.9967,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.9547,
+    "sens_slope":0.0913,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.0722,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.2566,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.211,
+    "sens_slope":0.1857,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.1322,
+    "sens_slope":0.7158,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.4265,
+    "sens_slope":-0.55,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.2012,
+    "sens_slope":-1.6,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.712,
+    "sens_slope":0.4077,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.7332,
+    "sens_slope":-0.5233,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.8871,
+    "sens_slope":0.1188,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.8201,
+    "sens_slope":0.0261,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Koppal",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.2765,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.9321,
+    "sens_slope":-0.3478,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.0832,
+    "sens_slope":-4.6889,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.164,
+    "sens_slope":2.4875,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.5673,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.2065,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.2805,
+    "sens_slope":0.6871,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.8424,
+    "sens_slope":-0.2,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.1683,
+    "sens_slope":-1.1172,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.8871,
+    "sens_slope":-0.1053,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.3133,
+    "sens_slope":1.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 9",
+    "trend":"decreasing",
+    "p_value":0.0332,
+    "sens_slope":-2.3364,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.7655,
+    "sens_slope":0.3941,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.0857,
+    "sens_slope":1.0579,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mysuru",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.4103,
+    "sens_slope":0.0061,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.5321,
+    "sens_slope":-3.8909,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.1397,
+    "sens_slope":-6.6571,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.222,
+    "sens_slope":2.1786,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.4088,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.4256,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.1483,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.0669,
+    "sens_slope":1.2583,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.4602,
+    "sens_slope":-1.452,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.1055,
+    "sens_slope":-3.6833,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.3942,
+    "sens_slope":-1.5167,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.6092,
+    "sens_slope":-1.2656,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.6701,
+    "sens_slope":0.6037,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.3633,
+    "sens_slope":0.76,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Mandya",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.7912,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.1117,
+    "sens_slope":5.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.8647,
+    "sens_slope":-0.5556,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.1556,
+    "sens_slope":2.3833,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.858,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.3496,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.1238,
+    "sens_slope":0.16,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 4",
+    "trend":"increasing",
+    "p_value":0.0049,
+    "sens_slope":1.5708,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.1914,
+    "sens_slope":1.7,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.4347,
+    "sens_slope":0.5,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.6701,
+    "sens_slope":-0.38,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.2559,
+    "sens_slope":1.5526,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.5894,
+    "sens_slope":-1.08,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.1914,
+    "sens_slope":1.05,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.1865,
+    "sens_slope":0.8367,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Tumakuru",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.5976,
+    "sens_slope":0.0074,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.8647,
+    "sens_slope":-0.3,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.3486,
+    "sens_slope":-1.85,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.7764,
+    "sens_slope":-0.3529,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.858,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.0915,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.198,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.4099,
+    "sens_slope":0.1588,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.4954,
+    "sens_slope":0.2357,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.4602,
+    "sens_slope":-0.4893,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 7",
+    "trend":"decreasing",
+    "p_value":0.0468,
+    "sens_slope":-1.975,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.9547,
+    "sens_slope":-0.0571,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.8203,
+    "sens_slope":-0.2194,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.3051,
+    "sens_slope":-0.17,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Raichur",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.9172,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Annual",
+    "trend":"increasing",
+    "p_value":0.0054,
+    "sens_slope":14.2167,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"SW Monsoon",
+    "trend":"increasing",
+    "p_value":0.0135,
+    "sens_slope":8.375,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.2805,
+    "sens_slope":1.4167,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.467,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.1413,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 3",
+    "trend":"increasing",
+    "p_value":0.0336,
+    "sens_slope":0.0192,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.1683,
+    "sens_slope":0.4667,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.3342,
+    "sens_slope":0.6462,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.6495,
+    "sens_slope":0.6125,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 7",
+    "trend":"increasing",
+    "p_value":0.0267,
+    "sens_slope":3.3563,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.0649,
+    "sens_slope":2.6615,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.0782,
+    "sens_slope":2.2036,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.4432,
+    "sens_slope":0.8421,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.9547,
+    "sens_slope":-0.0071,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Shivamogga",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.5709,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.1819,
+    "sens_slope":24.3333,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.2805,
+    "sens_slope":15.32,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.0608,
+    "sens_slope":4.9762,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.6525,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.6555,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.6719,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 4",
+    "trend":"no trend",
+    "p_value":0.2442,
+    "sens_slope":0.6417,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.3786,
+    "sens_slope":1.1933,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.3942,
+    "sens_slope":3.4,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.3202,
+    "sens_slope":10.2263,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.4954,
+    "sens_slope":-3.3381,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 9",
+    "trend":"increasing",
+    "p_value":0.0231,
+    "sens_slope":7.78,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.0832,
+    "sens_slope":3.0485,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.1117,
+    "sens_slope":2.13,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Udupi",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.9534,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.7332,
+    "sens_slope":0.9645,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.9773,
+    "sens_slope":0.1,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.8647,
+    "sens_slope":-0.2963,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":1.0,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 2",
+    "trend":"increasing",
+    "p_value":0.0043,
+    "sens_slope":0.0,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.4013,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 4",
+    "trend":"increasing",
+    "p_value":0.0317,
+    "sens_slope":0.25,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.1771,
+    "sens_slope":0.5353,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.2559,
+    "sens_slope":-0.9,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.6909,
+    "sens_slope":0.2842,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.1216,
+    "sens_slope":1.45,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.8871,
+    "sens_slope":-0.4136,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.712,
+    "sens_slope":0.3857,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.9427,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Vijayapura",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.7235,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.712,
+    "sens_slope":-4.6609,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.3786,
+    "sens_slope":-10.8667,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.9321,
+    "sens_slope":0.29,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.1148,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.0758,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 3",
+    "trend":"increasing",
+    "p_value":0.023,
+    "sens_slope":0.0,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 4",
+    "trend":"increasing",
+    "p_value":0.0021,
+    "sens_slope":0.1947,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.0806,
+    "sens_slope":1.5071,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.1322,
+    "sens_slope":-5.02,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.8203,
+    "sens_slope":-2.2214,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 8",
+    "trend":"decreasing",
+    "p_value":0.0206,
+    "sens_slope":-9.88,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 9",
+    "trend":"increasing",
+    "p_value":0.0158,
+    "sens_slope":7.6862,
+    "significance":"95% Significance",
+    "h":true
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.2559,
+    "sens_slope":2.015,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.639,
+    "sens_slope":0.116,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"Uttara Kannada",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.825,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"SW Monsoon",
+    "trend":"no trend",
+    "p_value":0.8424,
+    "sens_slope":0.1578,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"NE Monsoon",
+    "trend":"no trend",
+    "p_value":0.2805,
+    "sens_slope":0.2778,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Annual",
+    "trend":"no trend",
+    "p_value":0.057,
+    "sens_slope":3.3341,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 1",
+    "trend":"no trend",
+    "p_value":0.8978,
+    "sens_slope":0.0,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 2",
+    "trend":"no trend",
+    "p_value":0.0673,
+    "sens_slope":0.0165,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 3",
+    "trend":"no trend",
+    "p_value":0.2559,
+    "sens_slope":0.1038,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 4",
+    "trend":"increasing",
+    "p_value":0.0029,
+    "sens_slope":0.725,
+    "significance":"99% Significance",
+    "h":true
+  },
+  {
+    "District":"State",
+    "Period":"Month 5",
+    "trend":"no trend",
+    "p_value":0.1556,
+    "sens_slope":0.6782,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 6",
+    "trend":"no trend",
+    "p_value":0.7982,
+    "sens_slope":-0.1392,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 7",
+    "trend":"no trend",
+    "p_value":0.6495,
+    "sens_slope":0.7125,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 8",
+    "trend":"no trend",
+    "p_value":0.9321,
+    "sens_slope":-0.0632,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 9",
+    "trend":"no trend",
+    "p_value":0.4602,
+    "sens_slope":0.4776,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 10",
+    "trend":"no trend",
+    "p_value":0.5136,
+    "sens_slope":0.4055,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 11",
+    "trend":"no trend",
+    "p_value":0.3634,
+    "sens_slope":0.3397,
+    "significance":"Not Significant",
+    "h":false
+  },
+  {
+    "District":"State",
+    "Period":"Month 12",
+    "trend":"no trend",
+    "p_value":0.8647,
+    "sens_slope":0.0192,
+    "significance":"Not Significant",
+    "h":false
+  }
+]

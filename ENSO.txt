@@ -1,0 +1,36 @@
+Year,Category
+1981,Neutral - Negative
+1982,Neutral - Neutral
+1983,El Niño - Positive
+1984,Neutral - Negative
+1985,Neutral - Neutral
+1986,Neutral - Positive
+1987,El Niño - Negative
+1988,El Niño - Neutral
+1989,La Niña - Positive
+1990,Neutral - Negative
+1991,Neutral - Neutral
+1992,El Niño - Positive
+1993,Neutral - Negative
+1994,Neutral - Neutral
+1995,El Niño - Positive
+1996,Neutral - Negative
+1997,Neutral - Neutral
+1998,El Niño - Positive
+1999,La Niña - Negative
+2000,La Niña - Neutral
+2001,Neutral - Positive
+2002,Neutral - Negative
+2003,El Niño - Neutral
+2004,Neutral - Positive
+2005,Neutral - Negative
+2006,Neutral - Neutral
+2007,El Niño - Positive
+2008,La Niña - Negative
+2009,Neutral - Neutral
+2010,El Niño - Positive
+2011,La Niña - Negative
+2012,La Niña - Neutral
+2013,Neutral - Positive
+2014,Neutral - Negative
+2015,El Niño - Neutral

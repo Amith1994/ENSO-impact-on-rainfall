@@ -4,4 +4,14 @@ Thumbs.db
 
 # Logs & temporary files
 *.log
-node_modules/
+run_log.txt
+**/node_modules/
+**/dist/
+**/.vite/
+__pycache__/
+venv/
+
+# Large raw data & output directories
+Karnataka/
+Results/
+Weather.xls
