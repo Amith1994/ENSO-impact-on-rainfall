@@ -91,8 +91,12 @@ let mapZoomLevel = 1;
 
 document.addEventListener('DOMContentLoaded', async () => {
   try {
-    const res = await fetch('enso_iod_karnataka_data.json');
-    appData = await res.json();
+    if (window.ENSO_DATA) {
+      appData = window.ENSO_DATA;
+    } else {
+      const res = await fetch('enso_iod_karnataka_data.json');
+      appData = await res.json();
+    }
     console.log('Enriched dataset loaded:', Object.keys(appData).length, 'locations');
 
     initMap();
