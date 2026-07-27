@@ -1,4 +1,4 @@
-// ENSO & IOD Climatological Explorer - Main Logic Engine
+// ENSO & IOD Climatological Explorer - Main Logic Engine (v5.1 - Probability Box Added)
 
 // Educational Descriptions for Intensity Phases & Combinations
 const EVENT_DESCRIPTIONS = {
