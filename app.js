@@ -557,11 +557,73 @@ function updateYearwiseChart() {
   badge.style.borderColor = phasePalette.color;
 
   const dData = getDistrictData(targetLoc);
-  if (!dData) return;
+  const probBox = document.getElementById('chart-probability-box');
+
+  if (!dData) {
+    if (probBox) probBox.innerHTML = '';
+    return;
+  }
 
   const years = dData.years || [];
   const yearVals = dData.year_vals || {};
   const normBaseline = dData.norm;
+
+  // Calculate probabilities of Below Normal (< -10%), Normal (±10%), and Above Normal (> +10%)
+  let countBelow = 0;
+  let countNormal = 0;
+  let countAbove = 0;
+  const totalYears = years.length;
+
+  years.forEach(y => {
+    const val = yearVals[y] !== undefined ? yearVals[y] : 0;
+    const dev = normBaseline > 0 ? ((val - normBaseline) / normBaseline) * 100 : 0;
+    if (dev < -10) {
+      countBelow++;
+    } else if (dev > 10) {
+      countAbove++;
+    } else {
+      countNormal++;
+    }
+  });
+
+  const probBelow = totalYears > 0 ? parseFloat(((countBelow / totalYears) * 100).toFixed(1)) : 0;
+  const probNormal = totalYears > 0 ? parseFloat(((countNormal / totalYears) * 100).toFixed(1)) : 0;
+  const probAbove = totalYears > 0 ? parseFloat(((countAbove / totalYears) * 100).toFixed(1)) : 0;
+
+  if (probBox) {
+    probBox.innerHTML = `
+      <div class="prob-box-header">
+        <span class="prob-title">Historical Rainfall Probability</span>
+        <span class="prob-subtitle">Distribution across ${totalYears} ${eventDisplay} years (${state.season})</span>
+      </div>
+      <div class="prob-cards-grid">
+        <div class="prob-card prob-below" title="Rainfall deficit greater than 10%">
+          <div class="prob-card-header">
+            <span class="prob-icon">🔴</span>
+            <span class="prob-label">Below Normal</span>
+          </div>
+          <div class="prob-val">${probBelow}%</div>
+          <div class="prob-subtext">${countBelow} of ${totalYears} yrs (&lt; -10%)</div>
+        </div>
+        <div class="prob-card prob-normal" title="Rainfall within +/- 10% of normal baseline">
+          <div class="prob-card-header">
+            <span class="prob-icon">🟢</span>
+            <span class="prob-label">Normal</span>
+          </div>
+          <div class="prob-val">${probNormal}%</div>
+          <div class="prob-subtext">${countNormal} of ${totalYears} yrs (±10%)</div>
+        </div>
+        <div class="prob-card prob-above" title="Rainfall excess greater than 10%">
+          <div class="prob-card-header">
+            <span class="prob-icon">🔵</span>
+            <span class="prob-label">Above Normal</span>
+          </div>
+          <div class="prob-val">${probAbove}%</div>
+          <div class="prob-subtext">${countAbove} of ${totalYears} yrs (&gt; +10%)</div>
+        </div>
+      </div>
+    `;
+  }
 
   const labels = years.map(y => y.toString());
   const rfData = years.map(y => yearVals[y] !== undefined ? yearVals[y] : 0);
